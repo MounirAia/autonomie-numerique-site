@@ -47,7 +47,6 @@ Utiliser Google pour trouver un programme au **cégep ou à l'université** qui 
 
 - Utiliser **Google** avec des mots-clés courts (ex. : `emploi préposé Montréal`, `programme informatique cégep`)
 - Si vous êtes bloqué, chercher un **tutoriel YouTube** ou demander de l'aide à **ChatGPT**
-- Copier le lien de la page trouvée pour le partager avec le formateur
 
 <div className="notes-space" aria-label="Espace de notes">
   <div className="notes-line"></div>

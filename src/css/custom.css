@@ -1,0 +1,152 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.notes-space {
+  margin-top: 0.75rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem 1rem 0.25rem;
+  border: 1px solid #d7dee6;
+  border-radius: 10px;
+  background: repeating-linear-gradient(
+    to bottom,
+    #ffffff 0,
+    #ffffff 2.05rem,
+    #eef2f7 2.05rem,
+    #eef2f7 2.12rem
+  );
+}
+
+.notes-line {
+  height: 2.12rem;
+}
+
+/* Placeholder visuel pour images à créer */
+.img-placeholder {
+  border: 2px dashed #b0b8c4;
+  background: #f0f3f6;
+  border-radius: 6px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #6b7a8d;
+  font-size: 0.82rem;
+  font-style: italic;
+  padding: 1rem;
+  margin: 0.75rem 0;
+  box-sizing: border-box;
+}
+
+@media print {
+  /* Masquer les éléments de navigation Docusaurus */
+  .navbar,
+  .theme-doc-sidebar-container,
+  .pagination-nav,
+  .theme-doc-footer,
+  .footer,
+  .breadcrumbs,
+  .theme-doc-toc-desktop,
+  .tocCollapsible,
+  [class*="docSidebarContainer"],
+  [class*="sidebarLogo"],
+  button[class*="sidebarToggle"] {
+    display: none !important;
+  }
+
+  /* Pleine largeur pour le contenu principal */
+  .main-wrapper,
+  .docMainContainer,
+  [class*="docMainContainer"],
+  [class*="docItemContainer"],
+  article {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Typographie propre pour l'impression */
+  body {
+    font-size: 11pt;
+    color: #000;
+  }
+
+  h1 { font-size: 16pt; margin-top: 0; }
+  h2 { font-size: 13pt; }
+
+  /* Éviter les coupures dans les tableaux et admonitions */
+  table, .alert, blockquote {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* Espace de notes */
+  .notes-space {
+    border: 1px solid #9aa6b2;
+    border-radius: 0;
+    background: repeating-linear-gradient(
+      to bottom,
+      #ffffff 0,
+      #ffffff 1.95rem,
+      #cfd6dd 1.95rem,
+      #cfd6dd 2.02rem
+    );
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* Garder les images côte à côte à l'impression */
+  .img-row {
+    display: flex !important;
+  }
+}
+
+/* Images côte à côte */
+.img-row {
+  display: flex;
+  gap: 1rem;
+  margin: 0.75rem 0;
+  align-items: flex-start;
+}
+
+.img-row > div {
+  flex: 1;
+  min-width: 0;
+}
+
+.img-row img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  width: 100%;
+}

@@ -1,0 +1,238 @@
+/* ===========================
+   Shortcut Cards (screen)
+   =========================== */
+
+.shortcutGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.45rem;
+  margin-bottom: 1.25rem;
+}
+
+.shortcutCard {
+  appearance: none;
+  display: block;
+  width: 100%;
+  text-align: left;
+  font-family: inherit;
+  border: 2px solid var(--ifm-color-emphasis-200);
+  border-radius: 10px;
+  padding: 0.55rem 0.7rem;
+  cursor: pointer;
+  background: var(--ifm-background-surface-color);
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.shortcutCard:hover {
+  background: var(--ifm-color-emphasis-100);
+  border-color: var(--ifm-color-primary-light);
+}
+
+.shortcutCardActive {
+  border-color: var(--ifm-color-primary) !important;
+  background: #eaf5ee !important;
+}
+
+[data-theme='dark'] .shortcutCardActive {
+  background: rgba(37, 194, 160, 0.12) !important;
+}
+
+.cardKeys {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2px;
+  margin-bottom: 3px;
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+
+.plus {
+  color: var(--ifm-color-emphasis-500);
+  font-size: 0.75rem;
+}
+
+.cardDesc {
+  font-size: 0.76rem;
+  color: var(--ifm-color-emphasis-700);
+  margin: 0;
+  line-height: 1.3;
+}
+
+/* ===========================
+   Keyboard container
+   =========================== */
+
+.keyboard {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 100%;
+  padding: 0.85rem;
+  background: #d6d9de;
+  border-radius: 12px;
+  border: 1px solid #b8bcc4;
+}
+
+[data-theme='dark'] .keyboard {
+  background: #252526;
+  border-color: #3c3c3c;
+}
+
+.keyRow {
+  display: flex;
+  gap: 4px;
+  width: 100%;
+}
+
+/* ===========================
+   Keys
+   =========================== */
+
+.key {
+  flex: 1 1 0;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 42px;
+  padding: 0 3px;
+  border-radius: 5px;
+  background: #ffffff;
+  border: 1px solid #c0c3ca;
+  border-bottom: 3px solid #9ea3ad;
+  font-family: monospace;
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: #2c2c2c;
+  text-align: center;
+  cursor: default;
+  user-select: none;
+  transition: background 0.12s, color 0.12s, transform 0.1s, box-shadow 0.1s;
+  white-space: nowrap;
+  overflow: hidden;
+  position: relative;
+}
+
+[data-theme='dark'] .key {
+  background: #3c3c3c;
+  border-color: #555;
+  border-bottom-color: #222;
+  color: #d4d4d4;
+}
+
+/* Width variants via flex-grow */
+.keyWide   { flex: 1.55 1.55 0; }
+.keyWider  { flex: 2    2    0; }
+.keyWidest { flex: 5    5    0; }
+
+/* Active key (screen — currently selected shortcut) */
+.keyActive {
+  background: var(--ifm-color-primary, #2e8555) !important;
+  color: #ffffff !important;
+  border-color: var(--ifm-color-primary-dark, #29784c) !important;
+  border-bottom-color: var(--ifm-color-primary-darkest, #205d3b) !important;
+  box-shadow: 0 0 0 2px rgba(46, 133, 85, 0.3);
+  transform: scale(1.07);
+  z-index: 1;
+}
+
+[data-theme='dark'] .keyActive {
+  background: var(--ifm-color-primary, #25c2a0) !important;
+  border-color: var(--ifm-color-primary-dark, #21af90) !important;
+  border-bottom-color: var(--ifm-color-primary-darkest, #1a8870) !important;
+  box-shadow: 0 0 0 2px rgba(37, 194, 160, 0.3);
+  color: #ffffff !important;
+}
+
+/* ===========================
+   PRINT
+   =========================== */
+
+@media print {
+
+  /* ---- Shortcut list: compact 3-col grid ---- */
+  .shortcutGrid {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0.15rem 0.4rem;
+    margin-bottom: 0.55rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 0.3rem;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .shortcutCard {
+    border: none !important;
+    border-bottom: 1px solid #e0e0e0 !important;
+    border-radius: 0 !important;
+    padding: 0.1rem 0.2rem !important;
+    background: transparent !important;
+    cursor: default;
+  }
+
+  .shortcutCardActive {
+    background: transparent !important;
+    border-color: #e0e0e0 !important;
+  }
+
+  .cardKeys {
+    font-size: 0.68rem;
+    gap: 1px;
+    margin-bottom: 1px;
+  }
+
+  .cardDesc {
+    font-size: 0.66rem;
+    color: #444;
+  }
+
+  /* ---- Keyboard: smaller, no shadows/animations ---- */
+  .keyboard {
+    background: transparent !important;
+    border: 1px solid #bbb !important;
+    border-radius: 5px !important;
+    padding: 0.35rem !important;
+    gap: 2px !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .keyRow {
+    gap: 2px !important;
+  }
+
+  .key {
+    height: 26px !important;
+    font-size: 0.55rem !important;
+    border-radius: 3px !important;
+    border-bottom-width: 2px !important;
+    background: #f4f4f4 !important;
+    color: #333 !important;
+    border-color: #bbb !important;
+    border-bottom-color: #999 !important;
+    transition: none !important;
+    transform: none !important;
+    box-shadow: none !important;
+  }
+
+  /* Reset interactive active state for print */
+  .keyActive {
+    background: #f4f4f4 !important;
+    color: #333 !important;
+    border-color: #bbb !important;
+    border-bottom-color: #999 !important;
+    box-shadow: none !important;
+    transform: none !important;
+  }
+
+  /* Highlight ALL keys used by ANY shortcut */
+  .keyPrintHighlight {
+    background: #c8e6c9 !important;
+    color: #1a5c25 !important;
+    border-color: #66bb6a !important;
+    border-bottom-color: #388e3c !important;
+  }
+}

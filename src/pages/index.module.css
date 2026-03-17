@@ -1,0 +1,41 @@
+.heroBanner {
+  background: radial-gradient(circle at top, #f8f4ea 0%, #d9ebf2 50%, #ffffff 100%);
+  padding: 5rem 0;
+  text-align: center;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 3rem 1rem;
+  }
+}
+
+.heroTitle {
+  font-size: clamp(2rem, 4vw, 3.4rem);
+  margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+  font-size: clamp(1.05rem, 2vw, 1.35rem);
+  max-width: 760px;
+  margin: 0 auto 2rem;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.introSection {
+  padding: 3rem 0 4rem;
+}
+
+.introSection h2 {
+  margin-bottom: 1rem;
+}
+
+.introSection p {
+  max-width: 820px;
+  line-height: 1.7;
+}

@@ -22,12 +22,8 @@ La recette simple : **`comment faire` + le sujet**
 
 <div className="img-row">
   <div>
-    <div className="img-placeholder">PROMPT: Screenshot of YouTube.com search results page for the query "comment faire un CV Word", showing 4 video thumbnails with French titles, view counts, and channel names visible. Clean browser UI.</div>
+    <img src="/img/module-2/2.2-recherche-youtube.png" alt="Résultats YouTube pour 'comment faire un CV Word'" />
     <p><em>Recherche YouTube : « comment faire un CV Word »</em></p>
-  </div>
-  <div>
-    <div className="img-placeholder">PROMPT: Screenshot of a YouTube video player page showing a tutorial video paused. Annotations with red arrows pointing to: the view count, the like count, the upload date, and the video duration. French language UI.</div>
-    <p><em>Vérifier les indicateurs de qualité avant de commencer</em></p>
   </div>
 </div>
 
@@ -39,9 +35,8 @@ Avant de suivre un tutoriel, vérifier ces 3 points :
 |---|---|
 | Nombre de likes élevé | Le contenu est apprécié |
 | Beaucoup de vues | Populaire et probablement fiable |
-| Date récente | L'interface correspond à ce que vous voyez |
+| Date récente | L'interface correspond à ce que vous voyez. Plus de chances que les informations soient à jour. |
 
-> **Astuce :** Si le tutoriel est trop rapide ou trop vieux, cherchez-en un autre.
 
 <div className="notes-space" aria-label="Espace de notes">
   <div className="notes-line"></div>

@@ -11,12 +11,12 @@ Google fonctionne mieux avec des mots-clés **courts et précis**. Inutile d'éc
 
 <div className="img-row">
   <div>
-    <div className="img-placeholder">PROMPT: Screenshot of Google.com search bar in Chrome browser, with the short query "faire un CV" typed in the search field, clean minimal UI, French language interface, no search results visible yet.</div>
+    <img src="/img/module-2/2.1-bon-research.png" alt="Bonne recherche : mots-clés courts dans la barre Google" />
     <p><em>Bonne recherche : mots-clés courts</em></p>
   </div>
   <div>
-    <div className="img-placeholder">PROMPT: Screenshot of Google.com search results page in Chrome browser for the query "faire un CV", showing 3-4 result links with titles and descriptions, French language, clean UI.</div>
-    <p><em>Les résultats s'affichent immédiatement</em></p>
+    <img src="/img/module-2/2.1-bad-research.png" alt="Mauvaise recherche : phrase trop longue dans la barre Google" />
+    <p><em>Mauvaise recherche : phrase trop longue</em></p>
   </div>
 </div>
 

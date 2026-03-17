@@ -24,12 +24,8 @@ sidebar_position: 3
 
 <div className="img-row">
   <div>
-    <div className="img-placeholder">PROMPT: Screenshot of ChatGPT homepage at chatgpt.com, showing the main landing page with a "Start chatting" or "Stay logged out" button visible, clean white UI, no account required option highlighted with a red arrow. French language browser.</div>
+    <img src="/img/module-2/2.3-chat-gpt.png" alt="Page d'accueil de ChatGPT avec le bouton pour utiliser sans compte" />
     <p><em>Page d'accueil — utiliser sans compte</em></p>
-  </div>
-  <div>
-    <div className="img-placeholder">PROMPT: Screenshot of the ChatGPT chat interface in guest/logged-out mode, showing the empty chat with the text input box at the bottom centered on screen, minimal clean UI, French language placeholder text in the input field.</div>
-    <p><em>Interface de chat — zone de saisie en bas</em></p>
   </div>
 </div>
 

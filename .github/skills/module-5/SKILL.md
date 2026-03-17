@@ -1,6 +1,6 @@
 ---
 name: module-5
-description: 'Contenu du Module 5 — Applications utiles pour la vie quotidienne. Utilise ce skill pour créer ou modifier les pages du module 5 : Facebook, Messenger, WhatsApp, YouTube, Kijiji, Facebook Marketplace, achats en ligne sécuritaires, Chrono, Taxi Coop, Google Maps, Indeed, LinkedIn, Jobboom, applications bancaires, Hydro-Québec, Videotron, Bell, App Store, Google Play.'
+description: 'Contenu du Module 5 — Applications utiles pour la vie quotidienne. Utilise ce skill pour créer ou modifier les pages du module 5 : Facebook, Messenger, WhatsApp, YouTube, Kijiji, Facebook Marketplace, achats en ligne sécuritaires, Chrono, Taxi Coop, Google Maps, Indeed, LinkedIn, applications bancaires, Hydro-Québec, Videotron, Bell, App Store, Google Play.'
 ---
 
 # Module 5 — Applications utiles pour la vie quotidienne

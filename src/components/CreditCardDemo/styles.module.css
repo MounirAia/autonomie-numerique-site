@@ -1,0 +1,515 @@
+/* ===========================
+   Checkout Demo — Layout
+   =========================== */
+
+.wrapper {
+  display: flex;
+  gap: 0;
+  border: 1px solid #d7dee6;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 1rem 0;
+  background: #fff;
+}
+
+[data-theme='dark'] .wrapper {
+  border-color: #3c3c3c;
+  background: #1e1e1e;
+}
+
+/* ---------- Left: summary ---------- */
+
+.summary {
+  flex: 0 0 38%;
+  padding: 1.5rem 1.25rem;
+  background: #f7f8fa;
+  border-right: 1px solid #d7dee6;
+}
+
+[data-theme='dark'] .summary {
+  background: #252526;
+  border-right-color: #3c3c3c;
+}
+
+.shopName {
+  font-weight: 700;
+  font-size: 0.95rem;
+  margin: 0 0 0.15rem;
+}
+
+.totalLabel {
+  font-size: 0.78rem;
+  color: #6b7a8d;
+  margin: 0;
+}
+
+.totalAmount {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin: 0.15rem 0 1rem;
+}
+
+/* ---------- Right: form ---------- */
+
+.formSide {
+  flex: 1;
+  padding: 1.5rem 1.25rem;
+}
+
+.fieldset {
+  border: none;
+  padding: 0;
+  margin: 0 0 1rem;
+}
+
+.legend {
+  font-weight: 700;
+  font-size: 0.92rem;
+  margin-bottom: 0.5rem;
+  padding: 0;
+}
+
+.label {
+  display: block;
+  font-size: 0.8rem;
+  color: #4a5568;
+  margin-bottom: 0.55rem;
+  font-weight: 500;
+}
+
+[data-theme='dark'] .label {
+  color: #b0b8c4;
+}
+
+.labelText {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+}
+
+.input {
+  display: block;
+  width: 100%;
+  padding: 0.5rem 0.6rem;
+  margin-top: 0.2rem;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 0.88rem;
+  font-family: inherit;
+  background: #fff;
+  color: #1a202c;
+  transition: border-color 0.15s;
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 2px rgba(46, 133, 85, 0.15);
+}
+
+[data-theme='dark'] .input {
+  background: #2d2d2d;
+  border-color: #555;
+  color: #d4d4d4;
+}
+
+.row {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.row > .label {
+  flex: 1;
+}
+
+/* Card number row with icons */
+.cardInputRow {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.cardInput {
+  flex: 1;
+}
+
+.cardIcons {
+  display: flex;
+  gap: 2px;
+  flex-shrink: 0;
+}
+
+.cardIcons img {
+  width: 28px;
+  height: 28px;
+}
+
+/* ===========================
+   Annotations
+   =========================== */
+
+.annotation {
+  font-size: 0.7rem;
+  color: #e65100;
+  font-weight: 400;
+  font-style: italic;
+  white-space: nowrap;
+}
+
+[data-theme='dark'] .annotation {
+  color: #ffab40;
+}
+
+/* ===========================
+   Error message
+   =========================== */
+
+.errorMsg {
+  background: #fff3f3;
+  border: 1px solid #e57373;
+  color: #c62828;
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.82rem;
+  margin: 0.5rem 0;
+}
+
+[data-theme='dark'] .errorMsg {
+  background: #3e2020;
+  border-color: #b71c1c;
+  color: #ef9a9a;
+}
+
+/* ===========================
+   Buttons
+   =========================== */
+
+.payBtn {
+  display: block;
+  width: 100%;
+  padding: 0.7rem;
+  margin-top: 0.5rem;
+  border: none;
+  border-radius: 6px;
+  background: #1a1a2e;
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.payBtn:hover {
+  background: #2e2e4a;
+}
+
+.disclaimer {
+  font-size: 0.72rem;
+  color: #888;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+/* ===========================
+   Success state
+   =========================== */
+
+.success {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.successIcon {
+  font-size: 2.5rem;
+  color: var(--ifm-color-primary);
+  margin: 0;
+}
+
+.resetBtn {
+  margin-top: 0.75rem;
+  padding: 0.45rem 1.2rem;
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: 6px;
+  background: transparent;
+  color: var(--ifm-color-primary);
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.resetBtn:hover {
+  background: var(--ifm-color-primary);
+  color: #fff;
+}
+
+/* ===========================
+   Fake Credit Card — 3D flip
+   =========================== */
+
+.cardInstruction {
+  font-size: 0.88rem;
+  color: #4a5568;
+  margin-bottom: 0.5rem;
+}
+
+[data-theme='dark'] .cardInstruction {
+  color: #b0b8c4;
+}
+
+.cardScene {
+  perspective: 800px;
+  width: 340px;
+  max-width: 100%;
+  height: 210px;
+  margin: 0 auto 1.25rem;
+  cursor: pointer;
+}
+
+.card3d {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.6s ease;
+  transform-style: preserve-3d;
+}
+
+.card3dFlipped {
+  transform: rotateY(180deg);
+}
+
+.cardFace {
+  position: absolute;
+  inset: 0;
+  border-radius: 14px;
+  padding: 1.25rem 1.4rem;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  overflow: hidden;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.18);
+}
+
+.cardFront {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  color: #fff;
+}
+
+.cardBack {
+  background: linear-gradient(135deg, #0f3460 0%, #16213e 50%, #1a1a2e 100%);
+  color: #fff;
+  transform: rotateY(180deg);
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.cardChip {
+  width: 40px;
+  height: 28px;
+  background: linear-gradient(135deg, #d4a84b, #c9942e);
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+
+.cardNumber {
+  font-size: 1.25rem;
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing: 2px;
+  margin: 0 0 1rem;
+}
+
+.cardBottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.cardSmallLabel {
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.7;
+  display: block;
+}
+
+.cardHolder {
+  font-size: 0.85rem;
+  margin: 0.15rem 0 0;
+  text-transform: uppercase;
+}
+
+.cardExpiry {
+  font-size: 0.85rem;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0.15rem 0 0;
+}
+
+.cardBrand {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.4rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  font-style: italic;
+  letter-spacing: 2px;
+  opacity: 0.85;
+}
+
+/* Card back */
+.cardStripe {
+  width: 100%;
+  height: 40px;
+  background: #111;
+  margin-top: 1.5rem;
+}
+
+.cardCvcArea {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #eee;
+  color: #333;
+  margin: 1rem 1.4rem 0;
+  padding: 0.4rem 0.75rem;
+  border-radius: 4px;
+  width: fit-content;
+}
+
+.cardCvcValue {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.cardBackNote {
+  font-size: 0.72rem;
+  opacity: 0.6;
+  text-align: center;
+  margin-top: auto;
+  padding-bottom: 1rem;
+}
+
+/* Print-only: show both sides flat, hide 3D card */
+.cardPrintFront,
+.cardPrintBack {
+  display: none;
+}
+
+/* ===========================
+   PRINT
+   =========================== */
+
+@media print {
+  .wrapper {
+    border: 1px solid #999;
+    border-radius: 4px;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .summary {
+    background: #f5f5f5 !important;
+    border-right: 1px solid #999;
+  }
+
+  .payBtn {
+    background: #333 !important;
+    color: #fff !important;
+  }
+
+  .annotation {
+    color: #c62828 !important;
+    font-weight: 600;
+  }
+
+  .cardIcons img {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .disclaimer {
+    font-size: 0.68rem;
+  }
+
+  .input {
+    border: 1px solid #999;
+  }
+
+  .errorMsg {
+    border: 1px solid #999;
+    color: #333;
+    background: #f9f9f9 !important;
+  }
+
+  /* Hide 3D card, show flat print versions */
+  .card3d {
+    display: none !important;
+  }
+
+  .cardScene {
+    perspective: none;
+    height: auto;
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .cardPrintFront,
+  .cardPrintBack {
+    display: block !important;
+    flex: 1;
+    border-radius: 10px;
+    padding: 1rem 1.2rem;
+    color: #fff;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    position: relative;
+  }
+
+  .cardPrintFront {
+    background: #1a1a2e !important;
+  }
+
+  .cardPrintBack {
+    background: #0f3460 !important;
+    padding: 0;
+  }
+
+  .cardPrintFront .cardChip {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .cardPrintFront .cardNumber,
+  .cardPrintBack .cardCvcValue {
+    color: #fff !important;
+  }
+
+  .cardPrintBack .cardCvcArea {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
+
+/* ===========================
+   Responsive (narrow screens)
+   =========================== */
+
+@media (max-width: 600px) {
+  .wrapper {
+    flex-direction: column;
+  }
+
+  .summary {
+    border-right: none;
+    border-bottom: 1px solid #d7dee6;
+  }
+
+  .cardScene {
+    width: 100%;
+    height: 200px;
+  }
+}

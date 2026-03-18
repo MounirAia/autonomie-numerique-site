@@ -8,10 +8,9 @@ description: 'Contenu du Module 5 — Applications utiles pour la vie quotidienn
 ## Sujets couverts
 
 ### Communication & réseaux sociaux
-- **Facebook** — réseau social pour rester en contact avec famille et amis
+- **Facebook** — réseau social
 - **Messenger** — messagerie instantanée de Facebook
-- **WhatsApp** — messagerie et appels audio/vidéo, très utilisé pour communiquer avec la famille et les proches
-- **YouTube** — plateforme de vidéos pour apprendre, se divertir et s'informer
+- **WhatsApp** — messagerie et appels audio/vidéo
 
 ### Achat & seconde main
 - **Kijiji** — acheter et vendre des objets d'occasion localement
@@ -28,19 +27,13 @@ description: 'Contenu du Module 5 — Applications utiles pour la vie quotidienn
 - **LinkedIn** — réseau professionnel et recherche d'emploi
 - **Jobboom** — site d'emplois québécois
 
-### Services utiles du quotidien
+### Services utiles du quotidien - Aucune photo pour cette section
 - **Applications bancaires** — gérer ses comptes, voir ses soldes, payer des factures
 - **Applications de fournisseurs** — Hydro-Québec, Videotron, Bell, etc. pour suivre ses factures et sa consommation
 
 **Note** : Beaucoup de services (banque, Internet, assurance, énergie) ont leur propre application pour suivre tes dépenses, contrats, factures et notifications.
 
 ## Devoirs
-
-### Devoir 1 — Explorer une application utile
-- Choisir une application de la liste ci-dessus
-- La télécharger depuis l'App Store ou Google Play
-- Créer un compte si nécessaire
-- Envoyer un courriel expliquant ce que tu as appris et comment cette application peut t'aider au quotidien
 
 ### Devoir 2 — Utiliser une application de transport
 - Télécharger Chrono (ou Google Maps)

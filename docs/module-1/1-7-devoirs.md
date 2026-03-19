@@ -25,11 +25,7 @@ Mettre en pratique les compétences vues dans le module 1 à travers des exercic
 
 ## Espace de notes
 
-Espace libre de notes.
-
 <div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>

@@ -66,6 +66,4 @@ Un **code QR** est un carré noir et blanc qui contient un lien ou une informati
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
 </div>

@@ -37,9 +37,9 @@ sidebar_position: 3
 | Nom de domaine connu | Nom de domaine bizarre (ex. : `raf-impots-ca.net`) |
 | Pas de fenêtres pop-up | Popup "Vous avez gagné un iPhone !" |
 
+## Espace de notes
+
 <div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>

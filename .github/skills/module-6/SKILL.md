@@ -38,11 +38,6 @@ description: 'Contenu du Module 6 — Sécurité numérique au quotidien. Utilis
 - Identifier à quoi sert le courriel de récupération ou le numéro de téléphone
 - Observer comment un code de vérification protège le compte
 
-### Devoir 2 — Repérer les signes d'une arnaque
-- Trouver un exemple de faux courriel, faux texto ou fausse annonce en ligne
-- Expliquer ce qui semble suspect : fautes, lien étrange, urgence, promesse trop belle, expéditeur inconnu
-- Indiquer quoi faire à la place : ne pas cliquer, vérifier la source, demander de l'aide si nécessaire
-
 ## Consignes de rédaction pour ce module
 
 - Pages courtes, pensées pour l'impression papier

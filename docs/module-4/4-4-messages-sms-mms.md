@@ -50,6 +50,4 @@ sidebar_position: 4
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
 </div>

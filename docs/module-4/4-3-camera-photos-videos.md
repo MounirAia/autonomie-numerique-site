@@ -37,6 +37,4 @@ Les photos sont classées par date. On peut aussi les retrouver dans **Albums**.
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
 </div>

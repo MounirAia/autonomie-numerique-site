@@ -41,6 +41,4 @@ Pour chacun, remplir le tableau ci-dessous :
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
 </div>

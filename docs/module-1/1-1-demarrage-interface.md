@@ -34,9 +34,9 @@ sidebar_position: 1
 | **Bouton Démarrer** | Logo Windows en bas à gauche — ouvre le menu principal |
 | **Fenêtres** | Chaque application s'ouvre dans une fenêtre : réduire **(—)**, agrandir **(□)**, fermer **(✕)** |
 
+## Espace de notes
+
 <div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>

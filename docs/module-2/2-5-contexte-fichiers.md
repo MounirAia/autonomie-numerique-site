@@ -43,9 +43,9 @@ La version gratuite de ChatGPT a des **limites d'utilisation** :
 
 > **Conseil :** Si ChatGPT vous bloque ou affiche une erreur, ouvrir un **nouveau chat** ou réessayer le lendemain.
 
+## Espace de notes
+
 <div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>

@@ -32,9 +32,9 @@ sidebar_position: 2
 
 > **Astuce :** Si le pavé tactile n'est pas confortable, brancher une souris USB — les deux fonctionnent en même temps.
 
+## Espace de notes
+
 <div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>

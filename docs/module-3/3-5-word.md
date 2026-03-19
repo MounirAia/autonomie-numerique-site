@@ -87,6 +87,4 @@ Appuyer sur <kbd>Ctrl</kbd> + <kbd>S</kbd> — Word enregistre automatiquement e
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
 </div>

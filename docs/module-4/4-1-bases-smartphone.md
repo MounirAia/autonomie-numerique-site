@@ -78,6 +78,4 @@ Même quand on quitte une application, elle continue souvent de fonctionner en a
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
 </div>

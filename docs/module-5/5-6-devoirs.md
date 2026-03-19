@@ -132,6 +132,4 @@ Envoie un courriel à ton enseignant(e) avec :
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
 </div>

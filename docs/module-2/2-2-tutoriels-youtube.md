@@ -38,9 +38,9 @@ Avant de suivre un tutoriel, vérifier ces 3 points :
 | Date récente | L'interface correspond à ce que vous voyez. Plus de chances que les informations soient à jour. |
 
 
+## Espace de notes
+
 <div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>

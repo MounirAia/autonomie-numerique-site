@@ -62,6 +62,4 @@ Une **clé USB** est un petit périphérique de stockage portable. Elle permet d
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
 </div>

@@ -28,9 +28,9 @@ sidebar_position: 4
 
 > **Attention :** Ne jamais télécharger un logiciel depuis un site inconnu. Toujours passer par le site officiel ou le Microsoft Store.
 
+## Espace de notes
+
 <div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>

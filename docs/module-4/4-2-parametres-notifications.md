@@ -62,6 +62,4 @@ Les notifications sont les alertes qui apparaissent en haut de l'écran.
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
 </div>

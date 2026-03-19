@@ -35,9 +35,9 @@ Google fonctionne mieux avec des mots-clés **courts et précis**. Inutile d'éc
 
 > **Astuce :** Si vous ne trouvez pas ce que vous cherchez au premier essai, changez un mot ou ajoutez plus de précision.
 
+## Espace de notes
+
 <div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>
   <div className="notes-line"></div>

@@ -16,14 +16,13 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://autonomie-numerique.example.com',
+  url: 'https://mouniraia.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'autonomie-numerique',
+  organizationName: 'MounirAia',
   projectName: 'autonomie-numerique-site',
 
   onBrokenLinks: 'throw',
@@ -57,32 +56,45 @@ const config: Config = {
   themeConfig: {
     image: 'img/logo.webp',
     colorMode: {
-      respectPrefersColorScheme: true,
+      defaultMode: 'light',
+      disableSwitch: true,
     },
     navbar: {
       title: 'Autonomie Numérique',
       logo: {
         alt: 'Autonomie Numérique',
         src: 'img/logo.webp',
-      },
-      items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Cours',
-        },
-      ],
+      }
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Cours',
+          title: 'Modules',
           items: [
             {
-              label: 'Module 1',
+              label: 'Module 1 — Bases & Envoi de courriel',
               to: '/docs/module-1/1-1-demarrage-interface',
+            },
+            {
+              label: 'Module 2 — Recherche en ligne et IA',
+              to: '/docs/module-2/2-1-recherche-google',
+            },
+            {
+              label: 'Module 3 — Outils bureautiques',
+              to: '/docs/module-3/3-1-cle-usb',
+            },
+            {
+              label: 'Module 4 — Téléphone intelligent',
+              to: '/docs/module-4/4-1-bases-smartphone',
+            },
+            {
+              label: 'Module 5 — Applications du quotidien',
+              to: '/docs/module-5/5-1-reseaux-sociaux',
+            },
+            {
+              label: 'Module 6 — Sécurité numérique',
+              to: '/docs/module-6/6-1-mots-de-passe',
             },
           ],
         },
@@ -90,17 +102,25 @@ const config: Config = {
           title: 'Programme',
           items: [
             {
-              label: 'Autonomie Numérique',
+              label: 'Page d\'accueil',
               to: '/',
+            },
+            {
+              label: 'SACANJOU',
+              href: 'https://sacanjou.org/',
             },
           ],
         },
         {
-          title: 'Navigation',
+          title: 'Contact',
           items: [
             {
-              label: 'Page d\'accueil',
-              to: '/',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/people/Autonomie-Num%C3%A9rique/61580302981771/',
+            },
+            {
+              label: 'aiamounir@hotmail.com',
+              href: 'mailto:aiamounir@hotmail.com',
             },
           ],
         },

@@ -53,7 +53,6 @@ Un **code QR** est un carré noir et blanc qui contient un lien ou une informati
 <div className="img-row">
   <div style={{maxWidth: "300px"}}>
     <img src="/img/module-4/4.5-QRCode.png" alt="Exemple de code QR noir et blanc" />
-    <p><em>Exemple de code QR</em></p>
   </div>
 </div>
 

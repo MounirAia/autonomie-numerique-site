@@ -47,12 +47,6 @@ Ces messages jouent sur **l'urgence** et la **peur** pour vous faire agir rapide
 
 ---
 
-:::info[Image à créer]
-Exemple fictif d'un faux courriel de livraison avec des annotations en rouge pointant les signes suspects : (1) adresse de l'expéditeur suspecte se terminant par ".ru", (2) texte d'urgence "dans les 24 heures", (3) lien trompeur dont l'URL ne correspond pas à l'entreprise, (4) faute d'orthographe dans le corps du message. Style pédagogique annoté, fond blanc, texte en français.
-:::
-
----
-
 ## Ressources pour en savoir plus
 
 - [Centre antifraude du Canada — Hameçonnage](https://centreantifraude-antifraudcentre.ca/scams-fraudes/phishing-hameconnage-fra.htm#a6)

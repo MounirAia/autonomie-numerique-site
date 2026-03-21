@@ -1,4 +1,4 @@
----
+﻿---
 title: "3.4 — Zoom : réunion vidéo"
 sidebar_position: 4
 ---
@@ -64,13 +64,3 @@ C'est la manière la plus simple :
 
 > **Attention :** Tester le micro et la caméra **avant** la réunion. Dans Zoom : cliquer sur la petite flèche à côté du micro → **Tester le son du haut-parleur et du microphone**.
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

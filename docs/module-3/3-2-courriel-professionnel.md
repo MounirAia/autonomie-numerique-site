@@ -1,4 +1,4 @@
----
+﻿---
 title: "3.2 — Courriel professionnel et pièces jointes"
 sidebar_position: 2
 ---
@@ -64,13 +64,3 @@ Cordialement,
 3. Cliquer sur **Télécharger** (flèche vers le bas)
 4. Le fichier se retrouve dans le dossier **Téléchargements**
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

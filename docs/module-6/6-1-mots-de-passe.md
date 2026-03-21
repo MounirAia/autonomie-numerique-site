@@ -1,4 +1,4 @@
----
+﻿---
 title: "6.1 — Créer un mot de passe fort"
 sidebar_position: 1
 ---
@@ -42,13 +42,3 @@ Si un seul site est piraté et que votre mot de passe est volé, les pirates von
 ---
 
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

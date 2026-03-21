@@ -1,4 +1,4 @@
----
+﻿---
 title: "1.7 — Devoirs"
 sidebar_position: 7
 ---
@@ -23,13 +23,3 @@ Mettre en pratique les compétences vues dans le module 1 à travers des exercic
 - Enregistrer l'image dans ce dossier
 - Envoyer la capture par courriel avec un court message
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

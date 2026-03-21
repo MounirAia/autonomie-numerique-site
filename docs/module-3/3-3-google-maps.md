@@ -1,4 +1,4 @@
----
+﻿---
 title: "3.3 — Google Maps"
 sidebar_position: 3
 ---
@@ -67,13 +67,3 @@ Après avoir cliqué sur un lieu :
   </div>
 </div>
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

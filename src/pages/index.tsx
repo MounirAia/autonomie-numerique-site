@@ -62,6 +62,9 @@ function HomepageHero() {
         <p className={styles.heroSubtitle}>
           Une série de cours pour devenir autonome avec la technologie.
         </p>
+        <p className={styles.heroInstructor}>
+          Enseigné par <strong>Mounir Aiache</strong> au SAC Anjou
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--primary button--lg"
@@ -138,6 +141,13 @@ function ContactSection() {
           </a>
           <a href="mailto:aiamounir@hotmail.com" className={styles.contactItem}>
             aiamounir@hotmail.com
+          </a>
+          <a
+            href="https://mouniraia.github.io"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={styles.contactItem}>
+            mouniraia.github.io
           </a>
         </div>
       </div>

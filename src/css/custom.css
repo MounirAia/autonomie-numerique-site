@@ -17,25 +17,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-.notes-space {
-  margin-top: 0.75rem;
-  margin-bottom: 1.5rem;
-  padding: 1rem 1rem 0.25rem;
-  border: 1px solid #d7dee6;
-  border-radius: 10px;
-  background: repeating-linear-gradient(
-    to bottom,
-    #ffffff 0,
-    #ffffff 2.05rem,
-    #eef2f7 2.05rem,
-    #eef2f7 2.12rem
-  );
-}
-
-.notes-line {
-  height: 2.12rem;
-}
-
 /* Placeholder visuel pour images à créer */
 .img-placeholder {
   border: 2px dashed #b0b8c4;
@@ -92,24 +73,87 @@
   h2 { font-size: 13pt; }
 
   /* Éviter les coupures dans les tableaux et admonitions */
-  table, .alert, blockquote {
+  table, .alert, blockquote, pre {
     break-inside: avoid;
     page-break-inside: avoid;
   }
 
-  /* Espace de notes */
-  .notes-space {
-    border: 1px solid #9aa6b2;
-    border-radius: 0;
-    background: repeating-linear-gradient(
-      to bottom,
-      #ffffff 0,
-      #ffffff 1.95rem,
-      #cfd6dd 1.95rem,
-      #cfd6dd 2.02rem
-    );
+  /* Masquer les séparateurs horizontaux */
+  hr {
+    display: none !important;
+  }
+
+  /* Empêcher les titres orphelins en bas de page */
+  h2, h3, h4 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  /* Garder le contenu attaché au titre qui précède */
+  h2 + *, h3 + *, h4 + * {
+    break-before: avoid;
+    page-break-before: avoid;
+  }
+
+  /* Éviter les lignes orphelines/veuves */
+  p, li {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* ── Pages catégorie de module (generated-index) ─────── */
+  [class*="generatedIndexPage"] {
+    break-before: always;
+    page-break-before: always;
+  }
+
+  /* Cartes en pleine largeur, sans troncature */
+  [class*="docCardListItem"] {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
     break-inside: avoid;
     page-break-inside: avoid;
+  }
+
+  [class*="cardContainer"] {
+    box-shadow: none !important;
+    border: 1px solid #bbb !important;
+    border-radius: 4px !important;
+    padding: 0.5rem 0.75rem !important;
+    margin-bottom: 0.4rem !important;
+    display: block;
+  }
+
+  [class*="cardTitle"],
+  [class*="cardDescription"] {
+    overflow: visible !important;
+    white-space: normal !important;
+    text-overflow: clip !important;
+    display: block !important;
+  }
+
+  [class*="cardTitle"] {
+    font-size: 11pt;
+    font-weight: 700;
+    margin-bottom: 0.15rem;
+  }
+
+  [class*="cardDescription"] {
+    font-size: 9.5pt;
+    color: #333;
+  }
+
+  /* La grille 2 colonnes en une seule colonne */
+  .row {
+    display: block !important;
+  }
+
+  .col--6 {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
+    padding: 0 !important;
   }
 
   /* Garder les images côte à côte à l'impression */

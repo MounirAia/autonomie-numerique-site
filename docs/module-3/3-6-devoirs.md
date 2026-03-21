@@ -1,4 +1,4 @@
----
+﻿---
 title: "3.6 — Devoirs"
 sidebar_position: 6
 ---
@@ -32,13 +32,3 @@ Pour chacun, remplir le tableau ci-dessous :
 | | | | | | |
 | | | | | | |
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

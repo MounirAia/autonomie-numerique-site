@@ -1,4 +1,4 @@
----
+﻿---
 title: "5.5 — Services du quotidien"
 sidebar_position: 5
 ---
@@ -50,13 +50,3 @@ Chaque banque offre une application pour gérer son argent :
 4. Appuyer sur **Installer**
 5. Se connecter avec les identifiants de son compte en ligne
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

@@ -1,4 +1,4 @@
----
+﻿---
 title: "5.6 — Devoirs"
 sidebar_position: 6
 ---
@@ -123,13 +123,3 @@ Envoie un courriel à ton enseignant(e) avec :
 | Les captures d'écran sont jointes | ☐ | ☐ |
 
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

@@ -1,4 +1,4 @@
----
+﻿---
 title: "2.4 — Rédiger de bons prompts"
 sidebar_position: 4
 ---
@@ -35,13 +35,3 @@ Le **prompt vague** laisse l'IA décider quoi inclure — le résultat peut êtr
 
 Le **prompt structuré** lui indique précisément les trois points à expliquer : elle suit votre liste, point par point.
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

@@ -1,4 +1,4 @@
----
+﻿---
 title: "6.3 — Reconnaître les arnaques en ligne"
 sidebar_position: 3
 ---
@@ -43,13 +43,3 @@ Si une offre semble trop avantageuse, c'est souvent un signe d'arnaque.
 
 ---
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

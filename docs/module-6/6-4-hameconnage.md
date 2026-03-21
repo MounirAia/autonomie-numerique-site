@@ -1,4 +1,4 @@
----
+﻿---
 title: "6.4 — Reconnaître l'hameçonnage (phishing)"
 sidebar_position: 4
 ---
@@ -54,13 +54,3 @@ Ces messages jouent sur **l'urgence** et la **peur** pour vous faire agir rapide
 
 ---
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

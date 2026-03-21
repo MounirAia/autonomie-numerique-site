@@ -1,4 +1,4 @@
----
+﻿---
 title: "4.2 — Paramètres et notifications"
 sidebar_position: 2
 ---
@@ -53,13 +53,3 @@ Les notifications sont les alertes qui apparaissent en haut de l'écran.
 
 > Si le téléphone est plein, supprimer des photos, des vidéos ou des applications inutilisées.
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

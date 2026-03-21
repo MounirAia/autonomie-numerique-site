@@ -1,4 +1,4 @@
----
+﻿---
 title: "3.5 — Créer un document avec Word"
 sidebar_position: 5
 ---
@@ -78,13 +78,3 @@ Appuyer sur <kbd>Ctrl</kbd> + <kbd>S</kbd> — Word enregistre automatiquement e
   </div>
 </div>
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

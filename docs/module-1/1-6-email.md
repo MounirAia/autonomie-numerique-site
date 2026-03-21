@@ -1,4 +1,4 @@
----
+﻿---
 title: "1.6 — Envoyer un courriel"
 sidebar_position: 6
 ---
@@ -41,21 +41,10 @@ Apprendre à envoyer un courriel clair et à joindre un fichier.
 
 ## Modèle de message
 
-Objet: Devoir module 1
-
-Bonjour,
-
-Je vous envoie mon devoir du module 1 en pièce jointe.
-
-Merci et bonne journée.
-
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>
+> Objet: Devoir module 1
+>
+> Bonjour,
+>
+> Je vous envoie mon devoir du module 1 en pièce jointe.
+>
+> Merci et bonne journée.

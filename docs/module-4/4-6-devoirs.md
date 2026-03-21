@@ -1,4 +1,4 @@
----
+﻿---
 title: "4.6 — Devoirs"
 sidebar_position: 6
 ---
@@ -25,13 +25,3 @@ sidebar_position: 6
 1. Utilise YouTube pour chercher un tutoriel sur des truc et astuces pour ton téléphone (ex. : « astuces iPhone », « Astuce Android », « trucs et astuces smartphone Samsung », etc.). Idealement pour ton modèle de téléphone spécifique (cherche comment le trouver).
 
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

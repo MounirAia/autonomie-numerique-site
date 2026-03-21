@@ -484,8 +484,7 @@
     print-color-adjust: exact;
   }
 
-  .cardPrintFront .cardNumber,
-  .cardPrintBack .cardCvcValue {
+  .cardPrintFront .cardNumber {
     color: #fff !important;
   }
 

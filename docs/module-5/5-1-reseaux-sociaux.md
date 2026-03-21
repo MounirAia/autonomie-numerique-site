@@ -1,4 +1,4 @@
----
+﻿---
 title: "5.1 — Réseaux sociaux et messagerie"
 sidebar_position: 1
 ---
@@ -48,13 +48,3 @@ sidebar_position: 1
 | Appel vidéo | Appuyer sur l'icône **caméra** en haut à droite |
 | Appel audio | Appuyer sur l'icône **téléphone** en haut à droite |
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

@@ -1,4 +1,4 @@
----
+﻿---
 title: "1.3 — Fichiers et recherche en ligne"
 sidebar_position: 3
 ---
@@ -37,13 +37,3 @@ sidebar_position: 3
 | Nom de domaine connu | Nom de domaine bizarre (ex. : `raf-impots-ca.net`) |
 | Pas de fenêtres pop-up | Popup "Vous avez gagné un iPhone !" |
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

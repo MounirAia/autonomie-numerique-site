@@ -1,4 +1,4 @@
----
+﻿---
 title: "3.1 — Clé USB : transférer des fichiers"
 sidebar_position: 1
 ---
@@ -53,13 +53,3 @@ Une **clé USB** est un petit périphérique de stockage portable. Elle permet d
 3. Attendre le message *« Vous pouvez retirer votre périphérique »*
 4. Retirer la clé USB en toute sécurité
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

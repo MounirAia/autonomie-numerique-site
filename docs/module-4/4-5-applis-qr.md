@@ -1,4 +1,4 @@
----
+﻿---
 title: "4.5 — Applications et codes QR"
 sidebar_position: 5
 ---
@@ -56,13 +56,3 @@ Un **code QR** est un carré noir et blanc qui contient un lien ou une informati
   </div>
 </div>
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

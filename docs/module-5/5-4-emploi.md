@@ -1,4 +1,4 @@
----
+﻿---
 title: "5.4 — Recherche d'emploi"
 sidebar_position: 4
 ---
@@ -53,13 +53,3 @@ Plusieurs sites et applications permettent de chercher un emploi directement dep
 
 > Conseil : avoir une photo de profil professionnelle (visage clair, fond neutre) augmente les chances d'être remarqué.
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

@@ -1,4 +1,4 @@
----
+﻿---
 title: "6.5 — Devoirs"
 sidebar_position: 5
 ---
@@ -100,13 +100,3 @@ Tu reçois les messages suivants. Pour chacun, tu dois décider : est-ce un mess
 
 ---
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

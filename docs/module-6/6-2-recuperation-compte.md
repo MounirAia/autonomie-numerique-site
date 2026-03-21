@@ -1,4 +1,4 @@
----
+﻿---
 title: "6.2 — Récupérer un compte"
 sidebar_position: 2
 ---
@@ -36,13 +36,3 @@ Quand on oublie son mot de passe, il ne faut pas paniquer. Presque tous les site
 ---
 
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

@@ -1,4 +1,4 @@
----
+﻿---
 title: "2.3 — ChatGPT : premiers pas"
 sidebar_position: 3
 ---
@@ -38,13 +38,3 @@ sidebar_position: 3
 | **Historique** (colonne gauche) | Retrouver les conversations passées (si connecté) |
 | **Nouveau chat** (+ en haut) | Démarrer une nouvelle conversation |
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

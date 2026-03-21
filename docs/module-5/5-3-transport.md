@@ -1,4 +1,4 @@
----
+﻿---
 title: "5.3 — Transport et déplacements"
 sidebar_position: 3
 ---
@@ -64,13 +64,3 @@ Quand on est dehors, Google Maps permet de chercher **tous les commerces d'un ty
 | Une clinique sans rendez-vous | `clinique sans rendez-vous` |
 | Un parc | `parc` |
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

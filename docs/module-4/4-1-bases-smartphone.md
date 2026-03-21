@@ -1,4 +1,4 @@
----
+﻿---
 title: "4.1 — Bases du téléphone intelligent"
 sidebar_position: 1
 ---
@@ -69,13 +69,3 @@ Même quand on quitte une application, elle continue souvent de fonctionner en a
 
 > Fermer les applications inutilisées peut prolonger la durée de vie de la batterie et améliorer la performance du téléphone.
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

@@ -1,4 +1,4 @@
----
+﻿---
 title: "4.4 — Messages texte (SMS et MMS)"
 sidebar_position: 4
 ---
@@ -41,13 +41,3 @@ sidebar_position: 4
 - Appuyer sur la notification pour ouvrir la conversation directement
 - Taper la réponse dans le champ en bas et appuyer sur **Envoyer**
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

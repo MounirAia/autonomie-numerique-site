@@ -1,4 +1,4 @@
----
+﻿---
 title: "4.3 — Caméra : photos et vidéos"
 sidebar_position: 3
 ---
@@ -28,13 +28,3 @@ Les photos sont classées par date. On peut aussi les retrouver dans **Albums**.
 3. Appuyer sur l'icône **+** ou trombone → choisir une photo
 4. Appuyer sur **Envoyer**
 
-## Espace de notes
-
-<div className="notes-space" aria-label="Espace de notes">
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-  <div className="notes-line"></div>
-</div>

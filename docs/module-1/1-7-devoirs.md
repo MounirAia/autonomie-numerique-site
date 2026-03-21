@@ -23,3 +23,8 @@ Mettre en pratique les compétences vues dans le module 1 à travers des exercic
 - Enregistrer l'image dans ce dossier
 - Envoyer la capture par courriel avec un court message
 
+## Devoir 3 - Se pratiquer à taper au clavier
+Aller sur https://monkeytype.com/
+- choisir le mode **quotes**
+- choisir une langue (ex. : français)
+- taper pendant 5 minutes, essayer de regarder le clavier le moins possible

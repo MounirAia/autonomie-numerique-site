@@ -25,6 +25,3 @@ sidebar_position: 4
 1. Menu Démarrer → **Paramètres**
 2. **Applications** → trouver le logiciel dans la liste
 3. Cliquer dessus → **Désinstaller**
-
-> **Attention :** Ne jamais télécharger un logiciel depuis un site inconnu. Toujours passer par le site officiel ou le Microsoft Store.
-

@@ -41,6 +41,10 @@ Utiliser Google pour trouver un programme au **cégep ou à l'université** qui 
 | Comment postuler (lien ou courriel) | |
 | Courriel ou téléphone de contact *(si disponible)* | |
 
+--- 
+## Devoir 3 — Regarder une vidéo YouTube éducative sur Windows
+Rergader la vidéo suivante : [Windows 11 trucs et astuces pour les débutants](https://www.youtube.com/watch?v=lRyjLmP4OAs)
+
 ---
 
 ## Conseils pour les devoirs

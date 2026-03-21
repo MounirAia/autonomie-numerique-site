@@ -13,7 +13,7 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "pdf": "npx docs-to-pdf docusaurus --initialDocURLs=\"http://localhost:3000/docs/module-1/1-1-demarrage-interface\" --version=3 --docsDir=\"./build\" --outputPDFFilename=\"autonomie-numerique.pdf\" --coverTitle=\"Autonomie Numérique\" --coverImage=\"http://localhost:3000/img/logo.webp\" --coverSub=\"Mounir Aiache<br/>SAC Anjou<br/>aiamounir@hotmail.com<br/>https://mouniraia.github.io/autonomie-numerique-site<br/>Facebook : Autonomie Num\u00e9rique\" --tocTitle=\"Table des matières\" --excludeURLs=\"http://localhost:3000/docs/module-1/,http://localhost:3000/docs/module-2/,http://localhost:3000/docs/module-3/,http://localhost:3000/docs/module-4/,http://localhost:3000/docs/module-5/,http://localhost:3000/docs/module-6/\""
+    "pdf": "npx docs-to-pdf docusaurus --initialDocURLs=\"http://localhost:3000/docs/module-1/1-1-demarrage-interface\" --version=3 --docsDir=\"./build\" --outputPDFFilename=\"autonomie-numerique.pdf\" --coverTitle=\"Autonomie Numérique\" --coverImage=\"http://localhost:3000/img/logo.webp\" --coverSub=\"Mounir Aiache<br/>SAC Anjou<br/>aiamounir@hotmail.com<br/>https://autonomie-numerique.ca<br/>Facebook : Autonomie Num\u00e9rique\" --tocTitle=\"Table des matières\" --excludeURLs=\"http://localhost:3000/docs/module-1/,http://localhost:3000/docs/module-2/,http://localhost:3000/docs/module-3/,http://localhost:3000/docs/module-4/,http://localhost:3000/docs/module-5/,http://localhost:3000/docs/module-6/\""
   },
   "dependencies": {
     "@docusaurus/core": "3.9.2",

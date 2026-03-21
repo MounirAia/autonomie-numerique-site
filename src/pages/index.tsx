@@ -143,11 +143,11 @@ function ContactSection() {
             aiamounir@hotmail.com
           </a>
           <a
-            href="https://mouniraia.github.io"
+            href="https://autonomie-numerique.ca"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.contactItem}>
-            mouniraia.github.io
+            autonomie-numerique.ca
           </a>
         </div>
       </div>

@@ -44,6 +44,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl: undefined,
+          exclude: ['**/_brouillons/**'],
         },
         blog: false,
         theme: {
@@ -97,12 +98,16 @@ const config: Config = {
               to: '/docs/module-6/4-1-bases-smartphone',
             },
             {
-              label: 'Module 7 — Applications du quotidien',
-              to: '/docs/module-7/5-1-reseaux-sociaux',
+              label: 'Module 7 — Applications de base du téléphone',
+              to: '/docs/module-7/7-1-telephone',
             },
             {
-              label: 'Module 8 — Sécurité numérique',
-              to: '/docs/module-8/6-1-mots-de-passe',
+              label: 'Module 8 — Applications du quotidien',
+              to: '/docs/module-8/5-1-reseaux-sociaux',
+            },
+            {
+              label: 'Module 9 — Sécurité numérique',
+              to: '/docs/module-9/6-1-mots-de-passe',
             },
           ],
         },

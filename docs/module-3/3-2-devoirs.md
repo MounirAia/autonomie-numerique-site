@@ -18,18 +18,7 @@ sidebar_position: 2
 
 ---
 
-## Devoir 2 — Envoyer un lien YouTube par courriel
-
-1. Aller sur [YouTube](https://youtube.com) et trouver une vidéo de votre choix.
-2. Cliquer sur **Partager**, puis sur **Copier** pour copier le lien.
-3. Ouvrir Gmail et créer un nouveau message adressé au formateur.
-4. Objet : *Devoir 3 — Lien YouTube*
-5. Coller le lien dans le corps du message avec **Ctrl + V**.
-6. Envoyer le message.
-
----
-
-## Devoir 3 — Retrouver et envoyer une capture d'écran
+## Devoir 2 — Retrouver et envoyer une capture d'écran
 
 1. Appuyer sur **Windows + Imp écran** pour prendre une capture d'écran.
    - L'image est sauvegardée automatiquement dans **Images → Captures d'écran**.

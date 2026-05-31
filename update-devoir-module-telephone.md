@@ -1,4 +1,4 @@
-## Section 4: Le Téléphone Intelligent
+## Section 6: Le Téléphone Intelligent
 ### Contenue a rajouter Pratiquer les gestes de base pour Smartphone et se pratiquer à écrire au clavier du téléphone:
 #### Iphone
 1. Balayer Gauche/Droite: pour changer d'écran d'accueil.
@@ -58,21 +58,21 @@
 - mettre contenue en haut
 4.3: Devoirs
 
-## Séction 5: Applications de base du téléphone
-### 5.1 Le Téléphone
+## Séction 7: Applications de base du téléphone
+### 7.1 Le Téléphone
 1. Passer un appel téléphonique
 2. Répondre à un appel téléphonique
 3. Ne pas répondre à un appel téléphonique et le mettre en silencieux
 4. Mettre le téléphone en silencieux
 
-### 5.2 Contacts
+### 7.2 Contacts
 1. Ajouter un contact
 2. Modifier un contact
 3. Supprimer un contact
 4. Appeler un contact
 5. Envoyer un message à un contact
 
-### 5.3 Messages
+### 7.3 Messages - nouveau:
 1. Envoyer un message texte à un contact
 2. Utilisation du clavier du téléphone pour écrire un message
    - La vue sur les lettres
@@ -82,25 +82,25 @@
    - Utiliser les suggestions de mots 
    - La vue sur les emojis
 
-### 5.4 Caméra
+### 7.4 Caméra - nouveau:
 1. Prendre une photo
 2. Prendre une vidéo
 3. Trouver les photos et vidéos prises dans la galerie
 4. Supprimer une photo ou une vidéo
 
-### 5.5 Calendrier
+### 7.5 Calendrier - nouveau
 1. Ajouter un événement au calendrier
 2. Modifier un événement dans le calendrier
 3. Supprimer un événement du calendrier
 4. Ajouter un rappel à un événement dans le calendrier -> notifications
 
-### 5.6 Paramètres
+### 7.6 Paramètres - nouveau:
 1. Changer les permissions d'une application (ex. : donner accès à la caméra, au microphone, etc.)
 2. Changer les paramètres de notifications d'une application (ex. : activer les notifications, désactiver les notifications, etc.)
 3. Changer les paramètres de localisation d'une application (ex. : donner accès à la localisation, enlever l'accès à la localisation, etc.)
 4. Vérifier l'espace de stockage disponible sur le téléphone
 
-### 5.7 L'application Fichiers
+### 7.7 L'application Fichiers - nouveau
 1. Trouver l'application Fichiers sur votre téléphone
 2. Ouvrir l'application Fichiers
 3. Trouver un fichier dans l'application Fichiers
@@ -108,8 +108,6 @@
 5. Supprimer un fichier dans l'application Fichiers
 6. Organiser les fichiers dans l'application Fichiers
 
-### Scanner un Code QR
-Garder la section 4.5, le paragraphre sur le code QR
 
 ### Devoir: Ajouter en contact, Le SAC Anjou
 ### Devoir: Prendre une photo d'un objet de votre choix, la sauvegarder dans la galerie, puis trouver la photo dans la galerie et la supprimer.
@@ -119,7 +117,7 @@ Garder la section 4.5, le paragraphre sur le code QR
 ### A enlever de l'ancien curiculum:
 - 4.3: Caméra : photos et vidéos
 
-## Séction 6: Utilisation de Gmail
+## Séction 8: Utilisation de Gmail
 ### Gmail
 - Télécharger l'application Gmail (si vous ne l'avez pas déjà)
 - Se connecter à Gmail
@@ -154,7 +152,7 @@ Garder la section 4.5, le paragraphre sur le code QR
 - Prendre 3 photos différentes avec votre téléphone et m'envoyer les photos en un seul email avec du texte dans le corps de l'email.
     - Les photos peuvent être de n'importe quoi.
 
-## Section 7: Utilisation du navigateur web
+## Section 9: Utilisation du navigateur web
 ### Naviguer le web
 - Ouvrir le navigateur web (ex. : Chrome, Safari, etc.)
 - Taper une URL pour aller à un site web
@@ -175,7 +173,7 @@ Garder la section 4.5, le paragraphre sur le code QR
 ### Utilisation de Google Maps
 utiliser la même section deja la. (qui est dans la section 3.3), meme si screenshot c'est pc, c'est pas grave, c'est pour donner une idée de comment utiliser google maps, et les gestes sont les memes sur telephone.
 
-## Section 8: Telecharger des applications
+## Section 10: Telecharger des applications
 - Comment chercher une application dans le magasin d'applications (ex. : Google Play Store, Apple App Store, etc.)
     - Par nom de l'application
     - Par catégorie de l'application (ex. : jeux, productivité, etc.)
@@ -212,7 +210,7 @@ utiliser la même section deja la. (qui est dans la section 3.3), meme si screen
 - 5.5: Applications de services du quotidien
 
 
-## Section 9: Sécurité numérique
+## Section 11: Sécurité numérique
 - Garder la meme chose que dans l'ancien curiculum.
 
 

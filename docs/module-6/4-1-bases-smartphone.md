@@ -1,9 +1,9 @@
 ﻿---
-title: "4.1 — Bases du téléphone intelligent"
+title: "6.1 — Bases du téléphone intelligent"
 sidebar_position: 1
 ---
 
-# 4.1 — Bases du téléphone intelligent
+# 6.1 — Bases du téléphone intelligent
 
 Un **téléphone intelligent** (smartphone) est un téléphone qui fonctionne comme un mini-ordinateur : il permet d'appeler, d'envoyer des messages, de naviguer sur Internet et d'utiliser des applications.
 
@@ -49,23 +49,5 @@ Un **téléphone intelligent** (smartphone) est un téléphone qui fonctionne co
 
 > **Couper le son d'un appel entrant sans raccrocher :** appuyer une seule fois sur le bouton de volume ou d'alimentation. L'appelant continue à sonner de son côté, mais le téléphone devient silencieux.
 
----
 
-## Les applications en arrière-plan
-
-Même quand on quitte une application, elle continue souvent de fonctionner en arrière-plan (ex. : réseaux sociaux, GPS, messagerie).
-
-**Voir et fermer les apps en arrière-plan :**
-
-**Sur iPhone :**
-1. Faire glisser le doigt vers le haut depuis le bas de l'écran, puis maintenir une seconde
-2. Les apps ouvertes s'affichent en vignettes
-3. Glisser une vignette vers le haut pour la fermer
-
-**Sur Android :**
-1. Appuyer sur le bouton **Applications récentes** (carré ou trois lignes en bas de l'écran)
-2. Les apps ouvertes s'affichent en vignettes
-3. Glisser une vignette vers le côté pour la fermer, ou appuyer sur **Tout fermer**
-
-> Fermer les applications inutilisées peut prolonger la durée de vie de la batterie et améliorer la performance du téléphone.
 

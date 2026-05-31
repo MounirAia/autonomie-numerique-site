@@ -1,36 +1,9 @@
 ﻿---
-title: "4.5 — Applications et codes QR"
-sidebar_position: 5
+title: "6.4 — Codes QR"
+sidebar_position: 4
 ---
 
-# 4.5 — Applications et codes QR
-
-## App Store ou Google Play ?
-
-| | App Store | Google Play |
-|---|-----------|-------------|
-| **Pour quel téléphone** | iPhone (Apple) | Android (Samsung, Google, etc.) |
-| **Comment y accéder** | Icône bleue avec un « A » | Icône avec un triangle coloré |
-| **Compte requis** | Identifiant Apple (Apple ID) | Compte Google (Gmail) |
-| **Applications gratuites** | Oui | Oui |
-
----
-
-## Installer une application
-
-*Exemple : installer ChatGPT*
-
-1. Ouvrir **App Store** (iPhone) ou **Google Play** (Android)
-2. Appuyer sur la **loupe** (recherche)
-3. Taper **ChatGPT** et appuyer sur **Rechercher**
-4. Choisir l'application publiée par **OpenAI**
-5. Appuyer sur **Obtenir** (iPhone) ou **Installer** (Android)
-6. Confirmer avec Face ID, Touch ID ou le mot de passe du compte
-7. Attendre le téléchargement — l'icône apparaît sur l'écran d'accueil
-
-> Toujours vérifier le nom de l'éditeur avant d'installer une application pour éviter les applications frauduleuses.
-
----
+# 6.4 — Codes QR
 
 ## Désinstaller une application
 

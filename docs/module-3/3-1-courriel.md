@@ -74,15 +74,6 @@ Rédiger un courriel clair et y joindre un fichier (photo, document, capture d'�
 
 ---
 
-## Copier un lien YouTube
-
-1. Ouvrir la vidéo sur [youtube.com](https://youtube.com).
-2. Cliquer sur **Partager** (sous la vidéo).
-3. Cliquer sur **Copier** — le lien est dans le presse-papiers.
-4. Coller le lien dans le corps du courriel avec **Ctrl + V**.
-
----
-
 ## Prendre une capture d'écran
 
 | Raccourci | Résultat |

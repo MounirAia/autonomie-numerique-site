@@ -3,7 +3,7 @@ title: "7.8 — Devoirs"
 sidebar_position: 8
 ---
 
-# 7.8 — Devoirs — Module 7
+# 7.8 — Devoirs
 
 ---
 

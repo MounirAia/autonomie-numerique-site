@@ -106,12 +106,12 @@ const config: Config = {
               to: '/docs/module-8/8-1-gmail',
             },
             {
-              label: 'Module 9 — Applications du quotidien',
-              to: '/docs/module-9/5-1-reseaux-sociaux',
+              label: 'Module 9 — Navigateur web',
+              to: '/docs/module-9/9-1-navigateur',
             },
             {
-              label: 'Module 10 — Sécurité numérique',
-              to: '/docs/module-10/6-1-mots-de-passe',
+              label: 'Module 10 — Télécharger des applications',
+              to: '/docs/module-10/10-1-magasin',
             },
           ],
         },

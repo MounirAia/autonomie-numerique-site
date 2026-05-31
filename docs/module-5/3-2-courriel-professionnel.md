@@ -1,9 +1,9 @@
 ﻿---
-title: "3.2 — Courriel professionnel et pièces jointes"
+title: "5.2 — Courriel professionnel et pièces jointes"
 sidebar_position: 2
 ---
 
-# 3.2 — Courriel professionnel et pièces jointes
+# 5.2 — Courriel professionnel et pièces jointes
 
 ## Modèle général
 

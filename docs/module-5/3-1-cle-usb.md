@@ -1,9 +1,9 @@
 ﻿---
-title: "3.1 — Clé USB : transférer des fichiers"
+title: "5.1 — Clé USB : transférer des fichiers"
 sidebar_position: 1
 ---
 
-# 3.1 — Clé USB : transférer des fichiers
+# 5.1 — Clé USB : transférer des fichiers
 
 ## C'est quoi une clé USB ?
 

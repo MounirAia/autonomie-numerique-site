@@ -65,17 +65,17 @@ const modules = [
   },
   {
     id: 9,
-    label: 'Applications du quotidien',
+    label: 'Navigateur web',
     description:
-      "Réseaux sociaux, achats d'occasion, transport, recherche d'emploi et services courants.",
-    to: '/docs/module-9/5-1-reseaux-sociaux',
+      "Naviguer sur internet, faire des recherches, gérer les onglets et utiliser Google Maps.",
+    to: '/docs/module-9/9-1-navigateur',
   },
   {
     id: 10,
-    label: 'Sécurité numérique',
+    label: 'Télécharger des applications',
     description:
-      "Créer des mots de passe forts, éviter les arnaques et reconnaître l'hameçonnage.",
-    to: '/docs/module-10/6-1-mots-de-passe',
+      "Explorer le magasin d'applications, lire la fiche d'une app, télécharger et utiliser Messenger.",
+    to: '/docs/module-10/10-1-magasin',
   },
 ];
 

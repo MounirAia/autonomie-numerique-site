@@ -1,9 +1,9 @@
 ﻿---
-title: "2.6 — Devoirs"
+title: "4.6 — Devoirs"
 sidebar_position: 6
 ---
 
-# 2.6 — Devoirs
+# 4.6 — Devoirs
 
 ## Objectif
 

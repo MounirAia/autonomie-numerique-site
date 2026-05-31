@@ -1,9 +1,9 @@
 ﻿---
-title: "2.1 — Chercher sur Google"
+title: "4.1 — Chercher sur Google"
 sidebar_position: 1
 ---
 
-# 2.1 — Chercher sur Google
+# 4.1 — Chercher sur Google
 
 ## Pourquoi utiliser des mots-clés courts ?
 

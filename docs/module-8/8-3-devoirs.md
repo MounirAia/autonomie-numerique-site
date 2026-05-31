@@ -3,7 +3,7 @@ title: "8.3 — Devoirs"
 sidebar_position: 3
 ---
 
-# 8.3 — Devoirs — Module 8
+# 8.3 — Devoirs
 
 ---
 

@@ -1,9 +1,9 @@
 ﻿---
-title: "2.3 — ChatGPT : premiers pas"
+title: "4.3 — ChatGPT : premiers pas"
 sidebar_position: 3
 ---
 
-# 2.3 — ChatGPT : premiers pas
+# 4.3 — ChatGPT : premiers pas
 
 ## C'est quoi une IA conversationnelle ?
 

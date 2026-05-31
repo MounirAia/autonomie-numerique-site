@@ -1,9 +1,9 @@
 ﻿---
-title: "3.6 — Devoirs"
+title: "5.6 — Devoirs"
 sidebar_position: 6
 ---
 
-# 3.6 — Devoirs
+# 5.6 — Devoirs
 
 ## Devoir 1 — Créer un document Word
 

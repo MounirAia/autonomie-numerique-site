@@ -1,9 +1,9 @@
 ﻿---
-title: "2.2 — Chercher sur YouTube"
+title: "4.2 — Chercher sur YouTube"
 sidebar_position: 2
 ---
 
-# 2.2 — Chercher sur YouTube
+# 4.2 — Chercher sur YouTube
 
 ## Quand chercher un tutoriel ?
 

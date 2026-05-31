@@ -1,9 +1,9 @@
 ﻿---
-title: "2.4 — Rédiger de bons prompts"
+title: "4.4 — Rédiger de bons prompts"
 sidebar_position: 4
 ---
 
-# 2.4 — Rédiger de bons prompts
+# 4.4 — Rédiger de bons prompts
 
 ## C'est quoi un prompt ?
 

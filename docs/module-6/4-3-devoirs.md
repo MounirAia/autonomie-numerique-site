@@ -3,7 +3,7 @@ title: "6.5 — Devoirs"
 sidebar_position: 5
 ---
 
-# 6.5 — Devoirs — Module 6
+# 6.5 — Devoirs
 
 ---
 

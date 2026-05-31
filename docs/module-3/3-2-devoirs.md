@@ -3,7 +3,7 @@ title: "3.2 — Devoirs"
 sidebar_position: 2
 ---
 
-# 3.2 — Devoirs — Module 3
+# 3.2 — Devoirs
 
 ---
 

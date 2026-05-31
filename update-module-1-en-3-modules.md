@@ -56,3 +56,6 @@
 1. Trouver une photo sur Google, la télécharger et l'envoyer par email à moi.
 2. Trouver une vidéo sur YouTube, copier le lien et l'envoyer par email à moi.
 3. Prendre une capture d'écran de votre écran, sauvegarder l'image, je vais ensuite venir changer de localisation l'image et vous devrez la retrouver et me l'envoyer par email.
+
+## À Enlever
+- 3.5: Créer un document avec Word

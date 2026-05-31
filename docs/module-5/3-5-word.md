@@ -1,6 +1,7 @@
 ﻿---
 title: "3.5 — Créer un document avec Word"
 sidebar_position: 5
+draft: true
 ---
 
 # 3.5 — Créer un document avec Word

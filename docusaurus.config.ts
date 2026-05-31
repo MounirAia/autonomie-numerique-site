@@ -73,28 +73,36 @@ const config: Config = {
           title: 'Modules',
           items: [
             {
-              label: 'Module 1 — Bases & Envoi de courriel',
+              label: 'Module 1 — Introduction à Windows',
               to: '/docs/module-1/1-1-demarrage-interface',
             },
             {
-              label: 'Module 2 — Recherche en ligne et IA',
-              to: '/docs/module-2/2-1-recherche-google',
+              label: 'Module 2 — Clavier et raccourcis',
+              to: '/docs/module-2/2-1-clavier',
             },
             {
-              label: 'Module 3 — Outils bureautiques',
-              to: '/docs/module-3/3-1-cle-usb',
+              label: 'Module 3 — Courriel et pièces jointes',
+              to: '/docs/module-3/3-1-courriel',
             },
             {
-              label: 'Module 4 — Téléphone intelligent',
-              to: '/docs/module-4/4-1-bases-smartphone',
+              label: 'Module 4 — Recherche en ligne et IA',
+              to: '/docs/module-4/2-1-recherche-google',
             },
             {
-              label: 'Module 5 — Applications du quotidien',
-              to: '/docs/module-5/5-1-reseaux-sociaux',
+              label: 'Module 5 — Outils bureautiques',
+              to: '/docs/module-5/3-1-cle-usb',
             },
             {
-              label: 'Module 6 — Sécurité numérique',
-              to: '/docs/module-6/6-1-mots-de-passe',
+              label: 'Module 6 — Téléphone intelligent',
+              to: '/docs/module-6/4-1-bases-smartphone',
+            },
+            {
+              label: 'Module 7 — Applications du quotidien',
+              to: '/docs/module-7/5-1-reseaux-sociaux',
+            },
+            {
+              label: 'Module 8 — Sécurité numérique',
+              to: '/docs/module-8/6-1-mots-de-passe',
             },
           ],
         },

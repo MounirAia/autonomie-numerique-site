@@ -1,6 +1,7 @@
 ﻿---
 title: "1.6 — Envoyer un courriel"
 sidebar_position: 6
+draft: true
 ---
 
 # 1.6 — Envoyer un courriel

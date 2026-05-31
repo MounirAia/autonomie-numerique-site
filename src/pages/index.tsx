@@ -9,45 +9,59 @@ import styles from './index.module.css';
 const modules = [
   {
     id: 1,
-    label: 'Bases & Envoi de courriel',
+    label: 'Introduction à Windows',
     description:
-      "Démarrer l'ordinateur, naviguer sur Internet, gérer ses fichiers et envoyer un premier courriel.",
+      "Démarrer l'ordinateur, naviguer dans Windows, gérer ses fichiers et dossiers.",
     to: '/docs/module-1/1-1-demarrage-interface',
   },
   {
     id: 2,
-    label: 'Recherche en ligne et IA',
+    label: 'Clavier et raccourcis',
     description:
-      'Maîtriser les recherches Google, trouver des tutoriels YouTube et utiliser ChatGPT.',
-    to: '/docs/module-2/2-1-recherche-google',
+      'Apprendre les touches du clavier et les raccourcis essentiels pour travailler plus vite.',
+    to: '/docs/module-2/2-1-clavier',
   },
   {
     id: 3,
-    label: 'Outils bureautiques',
+    label: 'Courriel et pièces jointes',
     description:
-      "Utiliser une clé USB, rédiger des courriels professionnels, Google Maps et Zoom.",
-    to: '/docs/module-3/3-1-cle-usb',
+      'Envoyer des courriels professionnels, joindre des fichiers et gérer sa boîte de réception.',
+    to: '/docs/module-3/3-1-courriel',
   },
   {
     id: 4,
-    label: 'Téléphone intelligent',
+    label: 'Recherche en ligne et IA',
     description:
-      'Prendre en main son téléphone, régler les paramètres, utiliser la caméra et envoyer des messages.',
-    to: '/docs/module-4/4-1-bases-smartphone',
+      'Maîtriser les recherches Google, trouver des tutoriels YouTube et utiliser ChatGPT.',
+    to: '/docs/module-4/2-1-recherche-google',
   },
   {
     id: 5,
-    label: 'Applications du quotidien',
+    label: 'Outils bureautiques',
     description:
-      "Réseaux sociaux, achats d'occasion, transport, recherche d'emploi et services courants.",
-    to: '/docs/module-5/5-1-reseaux-sociaux',
+      "Utiliser une clé USB, rédiger des courriels professionnels, Google Maps et Zoom.",
+    to: '/docs/module-5/3-1-cle-usb',
   },
   {
     id: 6,
+    label: 'Téléphone intelligent',
+    description:
+      'Prendre en main son téléphone, régler les paramètres, utiliser la caméra et envoyer des messages.',
+    to: '/docs/module-6/4-1-bases-smartphone',
+  },
+  {
+    id: 7,
+    label: 'Applications du quotidien',
+    description:
+      "Réseaux sociaux, achats d'occasion, transport, recherche d'emploi et services courants.",
+    to: '/docs/module-7/5-1-reseaux-sociaux',
+  },
+  {
+    id: 8,
     label: 'Sécurité numérique',
     description:
       "Créer des mots de passe forts, éviter les arnaques et reconnaître l'hameçonnage.",
-    to: '/docs/module-6/6-1-mots-de-passe',
+    to: '/docs/module-8/6-1-mots-de-passe',
   },
 ];
 
@@ -166,6 +180,7 @@ export default function Home(): ReactNode {
         <AboutSection />
         <ModulesSection />
         <ContactSection />
+        
       </main>
     </Layout>
   );

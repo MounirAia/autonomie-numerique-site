@@ -30,7 +30,6 @@
 
 
 ## Module 2: Utilisation des périphériques d'entrée (clavier et souris)
-4) Pavé tactile (Touchpad)
 ### Devoir
 1. Se pratiquer à taper au clavier
     Aller sur https://monkeytype.com/

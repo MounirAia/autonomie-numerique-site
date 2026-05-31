@@ -58,17 +58,24 @@ const modules = [
   },
   {
     id: 8,
-    label: 'Applications du quotidien',
+    label: 'Gmail et sécurité',
     description:
-      "Réseaux sociaux, achats d'occasion, transport, recherche d'emploi et services courants.",
-    to: '/docs/module-8/5-1-reseaux-sociaux',
+      "Télécharger Gmail, lire et envoyer des courriels, reconnaître les arnaques et l'hameçonnage.",
+    to: '/docs/module-8/8-1-gmail',
   },
   {
     id: 9,
+    label: 'Applications du quotidien',
+    description:
+      "Réseaux sociaux, achats d'occasion, transport, recherche d'emploi et services courants.",
+    to: '/docs/module-9/5-1-reseaux-sociaux',
+  },
+  {
+    id: 10,
     label: 'Sécurité numérique',
     description:
       "Créer des mots de passe forts, éviter les arnaques et reconnaître l'hameçonnage.",
-    to: '/docs/module-9/6-1-mots-de-passe',
+    to: '/docs/module-10/6-1-mots-de-passe',
   },
 ];
 

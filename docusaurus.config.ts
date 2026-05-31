@@ -102,12 +102,16 @@ const config: Config = {
               to: '/docs/module-7/7-1-telephone',
             },
             {
-              label: 'Module 8 — Applications du quotidien',
-              to: '/docs/module-8/5-1-reseaux-sociaux',
+              label: 'Module 8 — Gmail et sécurité',
+              to: '/docs/module-8/8-1-gmail',
             },
             {
-              label: 'Module 9 — Sécurité numérique',
-              to: '/docs/module-9/6-1-mots-de-passe',
+              label: 'Module 9 — Applications du quotidien',
+              to: '/docs/module-9/5-1-reseaux-sociaux',
+            },
+            {
+              label: 'Module 10 — Sécurité numérique',
+              to: '/docs/module-10/6-1-mots-de-passe',
             },
           ],
         },

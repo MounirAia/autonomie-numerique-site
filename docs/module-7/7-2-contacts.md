@@ -5,6 +5,8 @@ sidebar_position: 2
 
 # 7.2 — Contacts
 
+Les contacts sont les personnes dont vous avez enregistré les informations de téléphone, d'adresse e-mail, etc. dans votre téléphone. Ils vous permettent de passer des appels et d'envoyer des messages rapidement sans avoir à mémoriser les numéros. Cette section vous montrera comment ajouter, modifier, supprimer et utiliser vos contacts pour communiquer facilement avec vos proches.
+
 ---
 
 ## Ajouter un contact

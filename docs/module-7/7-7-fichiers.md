@@ -5,6 +5,8 @@ sidebar_position: 7
 
 # 7.7 — Application Fichiers
 
+L'application Fichiers de votre smartphone vous permet de gérer vos documents, photos, vidéos et autres fichiers. Vous pouvez organiser, déplacer, supprimer et partager vos fichiers facilement. Cette section vous montrera comment utiliser l'application Fichiers pour accéder et gérer vos documents sur votre appareil.
+
 ---
 
 ## Trouver et ouvrir l'application Fichiers

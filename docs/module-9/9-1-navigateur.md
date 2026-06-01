@@ -5,6 +5,8 @@ sidebar_position: 1
 
 # 9.1 — Naviguer sur le web
 
+Naviguer sur le web vous permet d'accéder à des informations, de communiquer et de réaliser diverses tâches en ligne. Savoir utiliser un navigateur est essentiel pour profiter pleinement d'Internet. Cette section vous montrera comment ouvrir un navigateur, taper une URL ou une recherche, et naviguer entre les onglets.
+
 ---
 
 ## Ouvrir le navigateur

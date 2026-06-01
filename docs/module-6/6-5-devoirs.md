@@ -5,6 +5,8 @@ sidebar_position: 5
 
 # 6.5 — Devoirs
 
+Dans ce devoir, vous allez pratiquer les gestes de base pour smartphone et organiser votre écran d'accueil pour qu'il soit plus facile à utiliser. Ces exercices vous aideront à devenir plus à l'aise avec la navigation sur votre téléphone et à personnaliser votre expérience numérique.
+
 ---
 
 ## Devoir 1 — Défi en chaîne : naviguer entre les applications

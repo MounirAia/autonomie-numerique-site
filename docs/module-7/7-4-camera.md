@@ -5,6 +5,8 @@ sidebar_position: 4
 
 # 7.4 — Caméra et galerie
 
+La caméra de votre smartphone vous permet de prendre des photos et des vidéos pour capturer vos souvenirs, partager des moments avec vos proches ou même créer du contenu. La galerie est l'endroit où toutes vos photos et vidéos sont organisées et accessibles. Cette section vous montrera comment utiliser la caméra pour prendre des photos et des vidéos, ainsi que comment trouver, visualiser et gérer vos médias dans la galerie de votre téléphone.
+
 ---
 
 ## Prendre une photo

@@ -5,6 +5,8 @@ sidebar_position: 3
 
 # 7.3 — Messages et clavier
 
+Les messages texte (SMS) sont un moyen rapide et facile de communiquer avec vos contacts. Savoir envoyer des messages et utiliser le clavier de votre téléphone est essentiel pour rester en contact avec vos proches, partager des informations et exprimer vos pensées. Cette section vous montrera comment rédiger et envoyer des messages, ainsi que les différentes fonctions du clavier virtuel de votre smartphone.
+
 ---
 
 ## Envoyer un message texte (SMS)

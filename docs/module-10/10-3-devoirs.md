@@ -5,6 +5,8 @@ sidebar_position: 3
 
 # 10.3 — Devoirs
 
+Dans ce devoir, vous allez pratiquer l'exploration du magasin d'applications et le téléchargement d'une application. Ces exercices vous aideront à devenir plus à l'aise avec la recherche d'applications qui vous intéressent et à les installer sur votre téléphone pour enrichir votre expérience numérique.
+
 ---
 
 ## Devoir 1 — Explorer le magasin d'applications

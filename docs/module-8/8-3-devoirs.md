@@ -5,6 +5,8 @@ sidebar_position: 3
 
 # 8.3 — Devoirs
 
+Dans ce devoir, vous allez pratiquer l'utilisation de Gmail et la sécurité en ligne. Ces exercices vous aideront à devenir plus à l'aise avec l'envoi de courriels, la gestion des pièces jointes et la reconnaissance des messages suspects.
+
 ---
 
 ## Devoir 1 — Scanner des documents et envoyer par courriel

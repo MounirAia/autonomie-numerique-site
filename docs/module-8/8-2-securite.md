@@ -5,6 +5,8 @@ sidebar_position: 2
 
 # 8.2 — Arnaques et hameçonnage
 
+Dans cette section, nous allons parler des arnaques en ligne et de l'hameçonnage (phishing). Il est important de savoir reconnaître les signes d'une arnaque ou d'un message frauduleux pour protéger vos informations personnelles et votre argent. Nous verrons comment identifier les messages suspects, vérifier l'adresse d'un expéditeur et les bonnes pratiques à suivre si vous recevez un message douteux.
+
 ---
 
 ## Les arnaques en ligne

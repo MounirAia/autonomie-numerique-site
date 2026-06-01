@@ -5,6 +5,8 @@ sidebar_position: 3
 
 # 9.3 — Devoirs
 
+Dans ce devoir, vous allez pratiquer la navigation sur le web et l'utilisation de Google Maps. Ces exercices vous aideront à devenir plus à l'aise avec la recherche d'informations en ligne et la consultation de cartes pour trouver des lieux et des itinéraires.
+
 ---
 
 ## Devoir — Trouver des téléphones intelligents sur Google

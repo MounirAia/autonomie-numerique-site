@@ -5,6 +5,8 @@ sidebar_position: 1
 
 # 7.1 — Le téléphone
 
+Le téléphone est l'une des fonctions les plus fondamentales d'un smartphone. Savoir passer et recevoir des appels est essentiel pour rester en contact avec vos proches, vos collègues et les services dont vous avez besoin. Cette section vous guidera à travers les étapes de base pour utiliser la fonction téléphone de votre appareil.
+
 ---
 
 ## Passer un appel

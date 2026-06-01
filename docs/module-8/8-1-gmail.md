@@ -5,6 +5,8 @@ sidebar_position: 1
 
 # 8.1 — Utilisation de Gmail
 
+Gmail est une application de messagerie électronique qui vous permet d'envoyer, de recevoir et de gérer vos courriels. Savoir utiliser Gmail est essentiel pour communiquer efficacement par courriel, organiser vos messages et accéder à vos informations importantes. Cette section vous montrera comment télécharger, configurer et utiliser Gmail sur votre smartphone.
+
 ---
 
 ## Télécharger Gmail et se connecter

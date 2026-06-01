@@ -5,6 +5,8 @@ sidebar_position: 6
 
 # 7.6 — Paramètres
 
+Les paramètres de votre smartphone vous permettent de personnaliser et de contrôler le fonctionnement de votre appareil. Vous pouvez ajuster les paramètres de son, d'affichage, de confidentialité, de notifications, etc. Savoir naviguer dans les paramètres et les modifier selon vos besoins est essentiel pour tirer le meilleur parti de votre smartphone et assurer une expérience utilisateur agréable.
+
 ---
 
 ## Changer les permissions d'une application

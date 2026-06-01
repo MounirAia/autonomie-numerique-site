@@ -5,6 +5,8 @@ sidebar_position: 5
 
 # 7.5 — Calendrier
 
+Le calendrier de votre smartphone vous permet de gérer vos rendez-vous, événements et tâches importantes. Savoir ajouter, modifier et supprimer des événements, ainsi que configurer des rappels, est essentiel pour organiser votre emploi du temps et ne rien oublier. Cette section vous montrera comment utiliser l'application Calendrier pour gérer efficacement votre temps.
+
 ---
 
 ## Ajouter un événement

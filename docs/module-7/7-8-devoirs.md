@@ -5,6 +5,8 @@ sidebar_position: 8
 
 # 7.8 — Devoirs
 
+Dans ce devoir, vous allez pratiquer les fonctions de base du téléphone, des contacts, des messages, de la caméra, du calendrier et des paramètres. Ces exercices vous aideront à devenir plus à l'aise avec l'utilisation de votre smartphone et à maîtriser les fonctionnalités essentielles pour une expérience numérique réussie.
+
 ---
 
 ## Devoir 1 — Ajouter un contact

@@ -5,6 +5,8 @@ sidebar_position: 4
 
 # 6.4 — Codes QR
 
+Cette section explique ce qu'est un code QR et comment le scanner avec votre téléphone. Les codes QR sont de plus en plus utilisés pour partager des liens, des informations de contact, des menus de restaurant, etc. Savoir les lire est une compétence numérique essentielle pour profiter pleinement de votre smartphone.
+
 ## Désinstaller une application
 
 - **Android** : appui long sur l'icône → **Désinstaller**

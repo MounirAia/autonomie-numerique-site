@@ -5,6 +5,8 @@ sidebar_position: 3
 
 # 6.3 — Gestes de base pour smartphone
 
+Les smartphones utilisent des gestes tactiles pour naviguer et interagir avec les applications. Voici les gestes de base à connaître pour utiliser votre téléphone efficacement.
+
 ---
 
 ## Naviguer entre les écrans d'accueil

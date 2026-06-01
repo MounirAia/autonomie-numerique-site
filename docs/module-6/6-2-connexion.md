@@ -5,6 +5,8 @@ sidebar_position: 2
 
 # 6.2 — Connexion Internet
 
+Connecter son téléphone à Internet est essentiel pour naviguer, utiliser les applications et communiquer. Il existe deux façons principales de se connecter : via le Wi-Fi ou les données mobiles.
+
 ---
 
 ## Se connecter au Wi-Fi

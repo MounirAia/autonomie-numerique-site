@@ -26,6 +26,6 @@ sidebar_position: 1
 
 Site recommandé : [monkeytype.com](https://monkeytype.com/)
 
-- Choisir le mode **quotes**
+- Choisir le mode **words**
 - Choisir la langue **français**
 - Essayer de regarder l'écran plutôt que le clavier

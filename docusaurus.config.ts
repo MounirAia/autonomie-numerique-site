@@ -87,15 +87,15 @@ const config: Config = {
             },
             {
               label: 'Module 4 — Recherche en ligne et IA',
-              to: '/docs/module-4/2-1-recherche-google',
+              to: '/docs/module-4/4-1-recherche-google',
             },
             {
               label: 'Module 5 — Outils bureautiques',
-              to: '/docs/module-5/3-1-cle-usb',
+              to: '/docs/module-5/5-1-cle-usb',
             },
             {
               label: 'Module 6 — Téléphone intelligent',
-              to: '/docs/module-6/4-1-bases-smartphone',
+              to: '/docs/module-6/6-1-bases-smartphone',
             },
             {
               label: 'Module 7 — Applications de base du téléphone',

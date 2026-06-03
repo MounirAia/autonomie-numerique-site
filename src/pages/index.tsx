@@ -33,21 +33,21 @@ const modules = [
     label: 'Recherche en ligne et IA',
     description:
       'Maîtriser les recherches Google, trouver des tutoriels YouTube et utiliser ChatGPT.',
-    to: '/docs/module-4/2-1-recherche-google',
+    to: '/docs/module-4/4-1-recherche-google',
   },
   {
     id: 5,
     label: 'Outils bureautiques',
     description:
       "Utiliser une clé USB, rédiger des courriels professionnels, Google Maps et Zoom.",
-    to: '/docs/module-5/3-1-cle-usb',
+    to: '/docs/module-5/5-1-cle-usb',
   },
   {
     id: 6,
     label: 'Téléphone intelligent',
     description:
       'Prendre en main son téléphone, régler les paramètres, utiliser la caméra et envoyer des messages.',
-    to: '/docs/module-6/4-1-bases-smartphone',
+    to: '/docs/module-6/6-1-bases-smartphone',
   },
   {
     id: 7,

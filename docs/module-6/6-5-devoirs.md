@@ -1,102 +1,43 @@
-﻿---
+---
 title: "6.5 — Devoirs"
 sidebar_position: 5
 ---
 
 # 6.5 — Devoirs
 
-## Devoir 1 — Exercice « Mot de passe oublié »
-
-### Mise en situation
-
-Tu as oublié ton mot de passe Gmail ou Outlook. Tu veux comprendre comment fonctionne la récupération de compte.
-
-### Étapes à suivre
-
-1. Ouvrir **Gmail** ([gmail.com](https://gmail.com)) ou **Outlook** ([outlook.com](https://outlook.com))
-2. Entrer ton adresse courriel et cliquer **Suivant**
-3. À l'écran du mot de passe, trouver et cliquer sur **Mot de passe oublié ?**
-4. Observer les options de récupération proposées :
-   - Envoi d'un code par courriel
-   - Envoi d'un code par SMS
-   - Confirmation via un autre appareil
-5. Identifier l'adresse courriel de récupération ou le numéro de téléphone associé au compte
-6. Observer comment le code de vérification arrive et combien de temps il est valide
-
-### Ce qu'il faut noter
-
-- Quelles options de récupération sont disponibles ?
-- À quel endroit est envoyé le code de vérification (courriel ou téléphone) ?
-- Combien de temps est valide le code ?
-- Pourquoi est-il dangereux de donner ce code à quelqu'un d'autre ?
+Dans ce devoir, vous allez pratiquer les gestes de base pour smartphone et organiser votre écran d'accueil pour qu'il soit plus facile à utiliser. Ces exercices vous aideront à devenir plus à l'aise avec la navigation sur votre téléphone et à personnaliser votre expérience numérique.
 
 ---
 
-## Devoir 2 — Vrai ou arnaque ?
+## Devoir 1 — Défi en chaîne : naviguer entre les applications
 
-### Mise en situation
+Objectif : pratiquer l'ouverture d'apps en arrière-plan, le gestionnaire d'apps et le changement d'app sans passer par l'écran d'accueil.
 
-Tu reçois les messages suivants. Pour chacun, tu dois décider : est-ce un message **légitime** ou une tentative **d'arnaque** ?
+**Règle importante :** à chaque étape, ne pas revenir à l'écran d'accueil pour changer d'app — utiliser uniquement le gestionnaire d'apps.
 
----
-
-### Message 1
-
-> **De :** service-client@purolator-livraison.net
-> **Objet :** Votre colis #CA-48821 n'a pas pu être livré
->
-> Bonjour cher client,
-> Votre colis n'a pas pu etre livré en raison d'une adresse incorrect.
-> Cliquez ici pour corriger vos informations avant 24h sinon le colis sera retourné.
-> **[Confirmer mon adresse](http://purolator-livraison.net/confirmer)**
-
-**Questions :**
-
-1. L'adresse de l'expéditeur est-elle celle de Purolator ? (le vrai domaine est `purolator.com`)
-2. Y a-t-il des fautes d'orthographe ?
-3. Y a-t-il une urgence exagérée ?
-4. Ce message est-il : **vrai** ou **arnaque** ?
+1. Ouvrir **Paramètres** — ne pas fermer l'app.
+2. Ouvrir **Appareil photo** — ne pas fermer les apps précédentes.
+3. Ouvrir **Calculatrice** — ne pas fermer les apps précédentes.
+4. Ouvrir **Navigateur** (Chrome ou Safari) — ne pas fermer les apps précédentes.
+5. Ouvrir le **gestionnaire d'applications** et vérifier que les 4 apps sont visibles en arrière-plan.
+6. Depuis le gestionnaire, **revenir dans Paramètres** sans passer par l'écran d'accueil.
+7. Depuis le gestionnaire, **revenir dans la Calculatrice** sans passer par l'écran d'accueil.
+8. Depuis le gestionnaire, **revenir dans le Navigateur** sans passer par l'écran d'accueil.
+9. Dans le navigateur, aller sur **autonomie-numerique.ca**.
+10. Depuis le gestionnaire, **revenir dans l'Appareil photo** sans passer par l'écran d'accueil.
+11. Prendre une photo de n'importe quoi.
+12. Revenir à l'écran d'accueil.
+13. Ouvrir le gestionnaire d'apps et **fermer toutes les applications**.
+14. Montrer au formateur que le gestionnaire est vide.
 
 ---
 
-### Message 2
+## Devoir 2 — Nettoyer l'écran d'accueil
 
-> **De :** noreply@amazon.ca
-> **Objet :** Votre commande a été expédiée
->
-> Bonjour Marie,
-> Votre commande a été expédiée et sera livrée le jeudi 19 mars.
-> Suivre ma commande : [amazon.ca](https://www.amazon.ca)
+Objectif : organiser l'écran d'accueil pour qu'il soit utile et facile à naviguer.
 
-**Questions :**
-
-1. L'adresse de l'expéditeur semble-t-elle légitime ?
-2. Le message utilise-t-il votre vrai nom ?
-3. Y a-t-il une urgence ou une demande d'information personnelle ?
-4. Ce message est-il : **vrai** ou **arnaque** ?
-
----
-
-### Message 3
-
-> **Texto reçu :**
-> « Gouvernement du Canada : Vous avez un remboursement d'impôt de 412 $. Réclamez-le maintenant : http://gc-canada-remboursement.com »
-
-**Questions :**
-
-1. Le gouvernement du Canada envoie-t-il des textos pour les remboursements d'impôt ?
-2. L'URL semble-t-elle officielle ? (comparer avec `canada.ca`)
-3. Ce message est-il : **vrai** ou **arnaque** ?
-
----
-
-### Réponses
-
-| Message | Réponse | Indices principaux |
-|---------|---------|-------------------|
-| Message 1 | **Arnaque** | Domaine suspect (`.net` ≠ `purolator.com`), fautes d'orthographe, urgence exagérée |
-| Message 2 | **Vrai** | Domaine `@amazon.ca`, nom personnalisé, aucune demande suspecte |
-| Message 3 | **Arnaque** | Le gouvernement ne contacte pas par texto, URL non officielle (`canada.ca` attendu) |
-
----
-
+1. **Supprimer** les applications que vous n'utilisez pas du tout (appui long → Supprimer/Désinstaller).
+2. **Retirer de l'écran d'accueil** les apps que vous utilisez rarement — sans les désinstaller. Elles restent accessibles dans la liste complète des apps.
+3. **Déplacer à la première page** d'accueil les apps que vous utilisez le plus souvent.
+4. **Créer un dossier** avec au moins 3 apps similaires (ex. : réseaux sociaux, jeux, etc.).
+5. Montrer le résultat au formateur.

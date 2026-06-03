@@ -1,0 +1,32 @@
+---
+title: "3.2 — Devoirs"
+sidebar_position: 2
+---
+
+# 3.2 — Devoirs
+
+Dans ce devoir, vous allez pratiquer les fonctions de base du téléphone, des contacts, des messages, de la caméra, du calendrier et des paramètres. Ces exercices vous aideront à devenir plus à l'aise avec l'utilisation de votre smartphone et à maîtriser les fonctionnalités essentielles pour une expérience numérique réussie.
+
+---
+
+## Devoir 1 — Envoyer une photo par courriel
+
+1. Aller sur [Google Images](https://images.google.com) et chercher une photo de votre choix.
+2. Télécharger la photo : clic droit sur l'image → **Enregistrer l'image sous...** → sauvegarder dans **Téléchargements**.
+3. Ouvrir Gmail et créer un nouveau message adressé au formateur.
+4. Objet : *Devoir 3 — Photo*
+5. Joindre la photo téléchargée (icône trombone).
+6. Envoyer le message.
+
+---
+
+## Devoir 2 — Retrouver et envoyer une capture d'écran
+
+1. Appuyer sur **Windows + Imp écran** pour prendre une capture d'écran.
+   - L'image est sauvegardée automatiquement dans **Images → Captures d'écran**.
+2. Informer le formateur que la capture est faite.
+   - Le formateur va déplacer l'image dans un autre dossier.
+3. Retrouver l'image déplacée en utilisant la **Recherche Windows** (barre des tâches → chercher le nom du fichier).
+4. Ouvrir Gmail et créer un nouveau message adressé au formateur.
+5. Objet : *Devoir 3 — Capture d'écran*
+6. Joindre l'image retrouvée et envoyer le message.

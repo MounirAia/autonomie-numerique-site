@@ -44,6 +44,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl: undefined,
+          exclude: ['**/_brouillons/**'],
         },
         blog: false,
         theme: {
@@ -73,28 +74,44 @@ const config: Config = {
           title: 'Modules',
           items: [
             {
-              label: 'Module 1 — Bases & Envoi de courriel',
+              label: 'Module 1 — Introduction à Windows',
               to: '/docs/module-1/1-1-demarrage-interface',
             },
             {
-              label: 'Module 2 — Recherche en ligne et IA',
-              to: '/docs/module-2/2-1-recherche-google',
+              label: 'Module 2 — Clavier et raccourcis',
+              to: '/docs/module-2/2-1-clavier',
             },
             {
-              label: 'Module 3 — Outils bureautiques',
-              to: '/docs/module-3/3-1-cle-usb',
+              label: 'Module 3 — Courriel et pièces jointes',
+              to: '/docs/module-3/3-1-courriel',
             },
             {
-              label: 'Module 4 — Téléphone intelligent',
-              to: '/docs/module-4/4-1-bases-smartphone',
+              label: 'Module 4 — Recherche en ligne et IA',
+              to: '/docs/module-4/2-1-recherche-google',
             },
             {
-              label: 'Module 5 — Applications du quotidien',
-              to: '/docs/module-5/5-1-reseaux-sociaux',
+              label: 'Module 5 — Outils bureautiques',
+              to: '/docs/module-5/3-1-cle-usb',
             },
             {
-              label: 'Module 6 — Sécurité numérique',
-              to: '/docs/module-6/6-1-mots-de-passe',
+              label: 'Module 6 — Téléphone intelligent',
+              to: '/docs/module-6/4-1-bases-smartphone',
+            },
+            {
+              label: 'Module 7 — Applications de base du téléphone',
+              to: '/docs/module-7/7-1-telephone',
+            },
+            {
+              label: 'Module 8 — Gmail et sécurité',
+              to: '/docs/module-8/8-1-gmail',
+            },
+            {
+              label: 'Module 9 — Navigateur web',
+              to: '/docs/module-9/9-1-navigateur',
+            },
+            {
+              label: 'Module 10 — Télécharger des applications',
+              to: '/docs/module-10/10-1-magasin',
             },
           ],
         },

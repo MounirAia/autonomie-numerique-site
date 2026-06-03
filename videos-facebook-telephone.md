@@ -554,18 +554,61 @@ Tu veux taper en français ET en anglais sur ton téléphone ? Voici comment ajo
 | 33 | Comment changer la langue de son clavier | F | — | Non |
 
 ## À faire :
-- 1 Tu savais qu'on peut couper le son d'un appel sans raccrocher ?
-- 8 Comment faire une recherche sur Internet depuis son téléphone
-- 2 Comment connecter son téléphone au Wi-Fi
-- 31 Comment utiliser le clavier de son téléphone — écrire, accents, majuscules, copier-coller et dicter
-- 3 Comment désactiver les données mobiles pour économiser son forfait
 
-- 22 Comment envoyer un courriel avec Gmail depuis son téléphone
-- 23 Comment joindre un fichier ou une photo à un courriel depuis son téléphone avec Gmail
-- 17 Comment scanner un document et l'envoyer en PDF — Android
-- 18 Comment scanner un document et l'envoyer en PDF — iPhone
+### 6.3 Gestes de base pour iPhone et Android
+- Gestes de base pour iPhone
+- Gestes de base pour Téléphone Android
 
-- Comment gérer les appels iPhone
+### 6.4 Scanner un code QR avec la caméra de son téléphone
+- Comment scanner un code QR avec la caméra de son téléphone ou une application dédiée
+    - https://www.youtube.com/watch?v=CC2TOq3rGVY
 
+
+### 7.1 Comment utiliser le Téléphone pour iPhone et Android
+- Comment utiliser le Téléphone pour iPhone
+- Comment utiliser le Téléphone pour Android
+
+### 7.2 Comment utiliser les contacts sur iPhone et Android
+- Comment utiliser les contacts sur iPhone
+- Comment utiliser les contacts sur Android
+
+### 7.3 Comment envoyer un message texte et utliser le clavier de son téléphone
+- Comment envoyer un message texte et utiliser le clavier de son iPhone
+- Comment envoyer un message texte et utiliser le clavier de son téléphone Android
+
+### 7.4 Comment utiliser la caméra de son téléphone et gérer ses photos
+- Comment utiliser la caméra de son iPhone et gérer ses photos
+- Comment utiliser la caméra de son téléphone Android et gérer ses photos
+
+### 7.5 Comment utiliser le Calendrier de son téléphone
+- Comment utiliser le Calendrier de son iPhone
+- Comment utiliser le Calendrier de son téléphone Android
+
+### 7.6 Comment changer les parametres de son téléphone
+- Comment changer les paramètres de son iPhone
+- Comment changer les paramètres de son téléphone Android
+
+### 7.7 Application Fichiers
+- Comment utiliser l'application Fichiers sur iPhone
+- Comment utiliser l'application Fichiers sur Android
+
+### 8.1 Comment envoyer des courriels depuis son téléphone avec Gmail
+- Comment envoyer des courriels depuis son téléphone avec Gmail sur son téléphone
+
+### 9.1 Comment naviguer sur Internet avec son téléphone
+- Comment naviguer sur Internet avec son téléphone Android et google Chrome
+- Comment naviguer sur Internet avec son iPhone et Safari
+
+### 9.2 Comment utiliser Google Maps sur son téléphone
+- Comment utiliser Google Maps sur son téléphone Android et iPhone
+
+### 10.1 Comment télécharger une application sur son téléphone
+- Comment télécharger une application sur son téléphone Android
+- Comment télécharger une application sur son iPhone
+
+### 10.2 Comment utiliser utiliser Messenger
+- Comment utiliser Messenger sur son téléphone Android et iPhone
 
 https://www.youtube.com/@RichBowlin
+
+
